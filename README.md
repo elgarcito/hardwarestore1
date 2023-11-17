@@ -26,9 +26,31 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
-### 31/11/2023
+### 02/11/2023
 
-Extended your previous homework with next features:
+Add 5 interfaces to the existing hierarchy. Use polymorphism with the abstract class and interface from the hierarchy.
+
+* The interfaces added for products that are not raw material: Selleable, Priceable, Costable, Available, StockChangeable.
+These interfaces are implemented in the ElectricProduct class
+* The interfaces added for Employee: VacationAble. This interface is used in the Employee class
+
+Create final class, method, variable.
+
+* The final class: PayingRates
+* Final method: showRates() inside Employee class
+* Final variable: inside PayingRates class: SELLER_RATE, DEPOSIT_RATE, OWNER_RATE.
+
+Create a static block, method, variable.
+
+* Static block: Inside Main class used a static block
+* Static method: some of the static methods are: setEmployeeList(), seeEmployeeList(),
+in Employee class, checkLicence(args) in RawMaterial Abstract class implemented in 
+ConstructionProduct
+* Static variable: productCounter used in ElectricProduct
+
+### 31/10/2023
+
+Extend your previous homework with next features:
 
 Requirements:
 Use polymorphism with at least one abstract class.

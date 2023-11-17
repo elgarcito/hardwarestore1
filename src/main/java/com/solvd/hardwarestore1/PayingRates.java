@@ -17,13 +17,6 @@ public final class PayingRates {
     private static final double OWNER_RATE=15;
 
 
-    final static void showRates(){
-        String message = "The rates per hour according to speciality are: \n" +
-                "Seller: "+ getSELLER_RATE()+" USD/h"+
-                "\nDeposit employee: "+getDEPOSIT_RATE()+" USD/h"+
-                "\nOwner: "+getOWNER_RATE()+" USD/h";
-        LOGGER.info(message);
-    }
 
     public static double getSELLER_RATE() {
         return SELLER_RATE;

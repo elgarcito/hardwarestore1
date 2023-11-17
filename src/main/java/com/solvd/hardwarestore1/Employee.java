@@ -179,6 +179,16 @@ public class Employee extends Person implements VacationAble {
         }
     }
 
+    //Show the rates per hour according to the type of employee
+    final void showRates(){
+        String message = "The rates per hour according to speciality are: \n" +
+                "Seller: "+ PayingRates.getSELLER_RATE()+" USD/h"+
+                "\nDeposit employee: "+PayingRates.getDEPOSIT_RATE()+" USD/h"+
+                "\nOwner: "+PayingRates.getOWNER_RATE()+" USD/h";
+        LOGGER.info(message);
+    }
+
+
     //end methods
     //Override abstract method
     @Override

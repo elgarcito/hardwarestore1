@@ -166,10 +166,6 @@ public class Main {
 
         // END Interacting with the CustomLinkedList
 
-        carlosRusso2.checkAge();
-
-
-
         /* Interacting with CustomLinkedList using an object
         CustomLinkedList<ElectricProduct> electricProductCustomLinkedList= new CustomLinkedList<>();
         ElectricProduct lightBulb3=new ElectricProduct("Light bulb3","led light bulb");

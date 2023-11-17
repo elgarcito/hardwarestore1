@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-public class ElectricProduct extends Product implements Costable, Available, Sellable, StockChangeable {
+public class ElectricProduct extends Product implements Costable, Available, Sellable, StockChangeable, Priceable {
     //The static product counter expand itself any time a product is created but initialice in 0 every time the
     //program initiate
     static int productCounter;
@@ -181,6 +181,12 @@ public class ElectricProduct extends Product implements Costable, Available, Sel
                 LocalDate.now());
         return LocalDate.now();
     }
+
+    @Override
+    public double definePrice(double cost, double winPercentage) {
+        return cost*(1+winPercentage/100);
+    }
+
     //end interface methods
 
 
