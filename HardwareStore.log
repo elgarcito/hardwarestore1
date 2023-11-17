@@ -1,0 +1,327 @@
+16:54:51.098 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+16:54:51.114 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+16:54:51.118 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+16:54:51.119 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+16:54:51.119 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+16:54:51.119 [main] INFO  com.solvd.hardwarestore1.Main - true
+16:54:51.121 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+16:54:51.121 [main] INFO  com.solvd.hardwarestore1.Main - 8
+16:54:51.122 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+16:54:51.122 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-16
+16:54:51.124 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+16:54:51.124 [main] INFO  com.solvd.hardwarestore1.Main - true
+16:54:51.130 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+16:54:51.130 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+16:54:51.130 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+16:54:51.130 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+16:54:51.131 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+16:54:51.131 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+16:54:51.131 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos has been added to the employee list.
+16:54:51.132 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+16:54:51.132 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+16:54:51.133 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+16:54:51.133 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+16:54:51.133 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+16:54:51.133 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+16:54:51.133 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+16:54:51.146 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+16:54:51.147 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos
+Speciality: seller
+Phone number: 12345678
+16:54:51.158 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+16:54:51.158 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+16:54:51.158 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+16:54:51.161 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+16:54:51.162 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+16:54:51.162 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+16:54:51.163 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+16:54:51.163 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+16:54:51.163 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+16:54:51.163 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+16:54:51.164 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+16:54:51.164 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:35:56.672 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+17:35:56.685 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+17:35:56.688 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+17:35:56.688 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+17:35:56.688 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+17:35:56.689 [main] INFO  com.solvd.hardwarestore1.Main - true
+17:35:56.691 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+17:35:56.691 [main] INFO  com.solvd.hardwarestore1.Main - 8
+17:35:56.692 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+17:35:56.701 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-16
+17:35:56.703 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+17:35:56.703 [main] INFO  com.solvd.hardwarestore1.Main - true
+17:35:56.710 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+17:35:56.711 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+17:35:56.711 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+17:35:56.711 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+17:35:56.712 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+17:35:56.712 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+17:35:56.712 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos has been added to the employee list.
+17:35:56.713 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+17:35:56.713 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+17:35:56.713 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+17:35:56.713 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+17:35:56.714 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+17:35:56.714 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+17:35:56.714 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+17:35:56.724 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+17:35:56.724 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos
+Speciality: seller
+Phone number: 12345678
+17:35:56.733 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+17:35:56.734 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+17:35:56.735 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+17:35:56.737 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:35:56.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:35:56.739 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:37:58.235 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+17:37:58.249 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+17:37:58.253 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+17:37:58.253 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+17:37:58.253 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+17:37:58.254 [main] INFO  com.solvd.hardwarestore1.Main - true
+17:37:58.257 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+17:37:58.258 [main] INFO  com.solvd.hardwarestore1.Main - 8
+17:37:58.259 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+17:37:58.276 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-16
+17:37:58.278 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+17:37:58.278 [main] INFO  com.solvd.hardwarestore1.Main - true
+17:37:58.285 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+17:37:58.285 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+17:37:58.285 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+17:37:58.285 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+17:37:58.286 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+17:37:58.286 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+17:37:58.287 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos has been added to the employee list.
+17:37:58.288 [main] INFO  com.solvd.hardwarestore1.Employee - The name has the right length.
+17:37:58.288 [main] INFO  com.solvd.hardwarestore1.Employee - The employee name is OK and not contains any number.
+17:37:58.288 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+17:37:58.289 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+17:37:58.289 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+17:37:58.289 [main] INFO  com.solvd.hardwarestore1.Employee - Thanks for checking the employee status before adding to the list of employees.
+17:37:58.289 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+17:37:58.300 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+17:37:58.300 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos
+Speciality: seller
+Phone number: 12345678
+17:37:58.317 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+17:37:58.320 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+17:37:58.321 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+17:37:58.325 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+17:37:58.326 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:37:58.326 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:37:58.326 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:37:58.327 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:37:58.327 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:37:58.327 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+17:37:58.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:00.772 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+13:46:00.788 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+13:46:00.791 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+13:46:00.791 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+13:46:00.791 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+13:46:00.791 [main] INFO  com.solvd.hardwarestore1.Main - true
+13:46:00.793 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+13:46:00.793 [main] INFO  com.solvd.hardwarestore1.Main - 8
+13:46:00.794 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+13:46:00.805 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-17
+13:46:00.808 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+13:46:00.808 [main] INFO  com.solvd.hardwarestore1.Main - true
+13:46:00.814 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+13:46:00.814 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+13:46:00.814 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+13:46:00.815 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+13:46:00.816 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos has been added to the employee list.
+13:46:00.816 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+13:46:00.817 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+13:46:00.817 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+13:46:00.817 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+13:46:00.817 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+13:46:00.829 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+13:46:00.829 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos
+Speciality: seller
+Phone number: 12345678
+13:46:00.848 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+13:46:00.849 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+13:46:00.849 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+13:46:00.855 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+13:46:00.863 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:00.863 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:00.864 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:00.864 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:00.866 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:00.866 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:00.869 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+13:46:00.870 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:00.870 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:00.870 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+13:46:00.871 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:00.871 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:00.871 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:29.545 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+13:46:29.563 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+13:46:29.566 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+13:46:29.566 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+13:46:29.567 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+13:46:29.567 [main] INFO  com.solvd.hardwarestore1.Main - true
+13:46:29.568 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+13:46:29.568 [main] INFO  com.solvd.hardwarestore1.Main - 8
+13:46:29.569 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+13:46:29.580 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-17
+13:46:29.584 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+13:46:29.584 [main] INFO  com.solvd.hardwarestore1.Main - true
+13:46:29.595 [main] ERROR com.solvd.hardwarestore1.Employee - Something went wrong: com.solvd.hardwarestore1.NumberInNamesException: The employee name has a number, please correct it.
+13:46:29.595 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+13:46:29.595 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+13:46:29.595 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+13:46:29.596 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos1 has been added to the employee list.
+13:46:29.596 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+13:46:29.596 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+13:46:29.597 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+13:46:29.597 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+13:46:29.597 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+13:46:29.609 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+13:46:29.609 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos1
+Speciality: seller
+Phone number: 12345678
+13:46:29.623 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+13:46:29.624 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+13:46:29.624 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+13:46:29.628 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+13:46:29.629 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:29.629 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:29.629 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:29.639 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:29.642 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:29.645 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:29.647 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+13:46:29.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:29.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+13:46:29.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+13:46:29.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+13:46:29.649 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+13:46:29.650 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
