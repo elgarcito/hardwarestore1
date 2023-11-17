@@ -26,6 +26,28 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 14/11/2023
+Move all projects to Maven.
+
+* The project was moved to maven
+
+Build jar file and deploy to the local repository.
+
+The file Deployed in local repository.png is the output of the deployment.
+
+
+Add 2 Plugins.
+
+* Added: maven-compiler-plugin, maven-jar-plugin. This was made through pom.xml file
+
+Run mvn for different phases from the Maven lifecycle. Check the result.
+
+* The file Lyfecycles stages.txt was added to the repository and has the result off all
+the terminal output in each phase.
+
+
+
+
 ### 09/11/2023
 
 Add 5 collections to the hierarchy.
