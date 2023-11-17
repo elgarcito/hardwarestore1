@@ -26,6 +26,30 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 07/11/2023
+Create 5 custom exceptions.
+
+The exception added are: 
+1. PhoneNumberException
+2. NumberInNamesException
+3. LongEmployeeNameException
+4. EmployeeSpecialityException
+5. EmailException
+
+Handle exceptions in 2 ways.
+
+* In throwNameException(String employeeName) in Class Employee we handle exception in
+two ways.All other exceptions are used in the checkEmployeeData() method in Employee class
+that allows us to see if the data of the employee is OK. 
+
+Use try-catch with resources.
+
+### * __Re-Do this exercise. We have an example in the static block in electricProduct.__
+
+Log messages to the console, file.
+
+* All messages that are not a white line are LOGGER.info() or LOGGER.error type.
+
 ### 02/11/2023
 
 Add 5 interfaces to the existing hierarchy. Use polymorphism with the abstract class and interface from the hierarchy.
