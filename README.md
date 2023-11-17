@@ -26,6 +26,23 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 09/11/2023
+
+Add 5 collections to the hierarchy.
+
+* The five collections are:
+1. electricProductArrayList in ElectricProduct class.
+2. employeeList in Employee class.
+3. gardenProductSetList in GardenProduct.
+4. householdItemArrayList in HouseHoldItem class.
+5. resumedEmployeeInformationList in Employee class.
+
+Create custom LinkedList with generic.
+
+* The Class CustomLinkedList is created with generics and has the methods:
+* addEndNode(T data), addFirstNode(T data), deleteFirstNode(), deleteMiddleNode(T data),
+ deleteLastNode(), deleteCustomLinkedList()
+
 ### 07/11/2023
 Create 5 custom exceptions.
 
@@ -48,7 +65,9 @@ Use try-catch with resources.
 
 Log messages to the console, file.
 
-* All messages that are not a white line are LOGGER.info() or LOGGER.error type.
+* All messages that are not a white line are LOGGER.info() or LOGGER.error() type and
+saved in HardwareStore.log .This is due to the implementation of log4j. The log4j2.xml is
+in the resources folder.
 
 ### 02/11/2023
 
