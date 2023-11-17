@@ -14,6 +14,8 @@ public class Employee extends Person implements VacationAble {
     private double costPerHour;//The pay per hour of the worker
     private String speciality;//What kind of job the worker does
 
+    private int employeeAge;//how old is the employee
+
     //The list that saves the Object employees
     public static final List<Employee> employeeList=new ArrayList<Employee>();
     //The list with the names only, this is public
@@ -68,6 +70,13 @@ public class Employee extends Person implements VacationAble {
         return employeeList;
     }
 
+    public int getEmployeeAge() {
+        return employeeAge;
+    }
+
+    public void setEmployeeAge(int employeeAge) {
+        this.employeeAge = employeeAge;
+    }
 
     //end getters and setters
 
@@ -170,10 +179,20 @@ public class Employee extends Person implements VacationAble {
         }
     }
 
-
-
     //end methods
-
+    //Override abstract method
+    @Override
+    public void checkAge(){
+        if (this.getEmployeeAge()<21){
+            LOGGER.info("You must be older than 18 years to be an employee.");
+            if (this.employeeAge==0){
+                LOGGER.info("Please set the employee age.");
+            }
+        }else {
+            LOGGER.info("You can be an employee.");
+        }
+    }
+    //End override abstract method
 
 
 

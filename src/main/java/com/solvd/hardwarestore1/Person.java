@@ -8,6 +8,8 @@ public abstract class Person {
     private String personEmail;//the person email
     private String phoneNumber;//the person phone number
 
+    public abstract void checkAge();
+
     //Constructor
     public Person(String personName,String personEmail, String phoneNumber){
         this.personName=personName;
@@ -45,5 +47,7 @@ public abstract class Person {
     }
 
     //End getters and setters
+
+    //Abstract method
 
 }
