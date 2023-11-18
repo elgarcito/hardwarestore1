@@ -94,7 +94,7 @@ public class Main {
         Employee carlosRusso=new Employee("carlos1","123@gmail.com","12345678","seller");
         System.out.println();
         //Check personalized exception
-        carlosRusso.checkEmployeeData();
+        carlosRusso.checkingEmployeeData();
         //End check personalized exception
         System.out.println();
         //Adding this employee to the private static List employeeList
@@ -107,7 +107,7 @@ public class Main {
         Employee carlosRusso2=new Employee("Jose Antonio","123@gmail.com","12345678","seller");
         //Check personalized exception before adding in the list
         System.out.println();
-        carlosRusso2.checkEmployeeData();
+        carlosRusso2.checkingEmployeeData();
         System.out.println();
         //Adding this employee to the private static List employeeList
         Employee.setEmployeeList(carlosRusso2);
