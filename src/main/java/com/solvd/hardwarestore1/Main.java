@@ -33,6 +33,12 @@ public class Main {
 
     public static void main(String[] args) {
 
+        try(AutoCloseable ac= new AutoClosableNoResource()){
+            LOGGER.info("Inside try block to test Try catch with exception");
+        }catch (Exception e){
+            LOGGER.error("An error occurred: "+e);
+        }
+
         //Example
         LOGGER.info("Hello and welcome to hardware store!!");
         System.out.println();

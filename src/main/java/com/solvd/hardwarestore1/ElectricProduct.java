@@ -11,16 +11,11 @@ import java.util.List;
 import java.util.Objects;
 
 public class ElectricProduct extends Product implements Costable, Available, Sellable, StockChangeable, Priceable {
-    //The static product counter expand itself any time a product is created but initialice in 0 every time the
+    //The static product counter expand itself any time a product is created but initialize in 0 every time the
     //program initiate
     static int productCounter;
     static {
         productCounter=0;
-        try (FileReader fileReader=new FileReader("log4j2.xml")){
-            System.setProperty("log4j.configurationFile", "log4j2.xml");
-        }catch (IOException e){
-            System.out.println(e);
-        }
     }
     private static final Logger LOGGER= LogManager.getLogger(ElectricProduct.class);
     private double voltageRate;//The voltage admitted for the product in V (volts)

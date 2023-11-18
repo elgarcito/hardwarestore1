@@ -83,7 +83,8 @@ that allows us to see if the data of the employee is OK.
 
 Use try-catch with resources.
 
-### * __Re-Do this exercise. We have an example in the static block in electricProduct.__
+* Inside the main method we have the try-with-resources.It uses the AutoCloseable Class
+that implements the AutoClosableNoResource() and overrides the close() method
 
 Log messages to the console, file.
 
