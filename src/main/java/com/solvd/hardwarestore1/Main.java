@@ -40,7 +40,7 @@ public class Main {
         }
 
         //Example
-        LOGGER.info("Hello and welcome to hardware store!!");
+        LOGGER.info("Hello and welcome to the command interface of your hardware store!!");
         System.out.println();
         //Creating the first Electric product
         ElectricProduct lightBulb=new ElectricProduct("Light bulb","led light bulb");
@@ -56,7 +56,7 @@ public class Main {
         System.out.println();
         System.out.println();
         //Creating the second Electric product
-        ElectricProduct lightBulb2=new ElectricProduct("Light bulb","led light bulb");
+        ElectricProduct lightBulb2=new ElectricProduct("Small light bulb","Small led light bulb");
 
         //getting the lightBulb2 id that used hashCode override to create a unique id
         LOGGER.info(lightBulb2.getElectricId());
