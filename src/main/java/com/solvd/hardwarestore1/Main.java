@@ -68,16 +68,16 @@ public class Main {
         LOGGER.info(lightBulb.equals(lightBulb2));
 
         //Creating a new gas Product
-        GasProduct gasBurner=new GasProduct("Gas Burner","Gas kitchen burner");
+        GasProduct gasBurner1=new GasProduct("Gas Burner","Gas kitchen burner");
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println("gas burner2");
+        LOGGER.info("gas burner2");
         GasProduct gasBurner2=new GasProduct("Gas Burner","Gas kitchen burner");
         gasBurner2.setStock(8);
         gasBurner2.removeStock(5);
         LOGGER.info(gasBurner2.getStock());
-        LOGGER.info(gasBurner.transactionDate());
+        LOGGER.info(gasBurner1.transactionDate());
 
         System.out.println();
         System.out.println();
