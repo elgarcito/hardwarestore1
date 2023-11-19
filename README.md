@@ -157,19 +157,12 @@ Create a class hierarchy. Topic for your hierarchy will be provided by your ment
 Requirements:
 
 At least 10 classes:
-* Products
-  * ElectricProduct
-  * GardenProduct
-  * GasProduct
-  * ConstructionProduct
-  * HandTool
-  * HouseholdItem
-  * WaterProduct
+* Products: ElectricProduct, GardenProduct, GasProduct, ConstructionProduct, HandTool,
+HouseholdItem, WaterProduct
 
-* Human being
-  * Employee
-  * Supplier
-  * BigClient
+
+* Human beings: Employee, Supplier, BigClient
+
 
 * All classes must contain properties (minimum 1)
 * At least 5 private properties (in total, in any classes)
