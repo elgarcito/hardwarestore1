@@ -16,7 +16,9 @@ public class Employee extends Person implements VacationAble {
 
     private int employeeAge;//how old is the employee
 
-    private String employeeNewInfo;
+    private String employeeOtherInfo;
+
+
     //The list that saves the Object employees
     public static final List<Employee> employeeList=new ArrayList<Employee>();
     //The list with the names only, this is public
@@ -79,15 +81,18 @@ public class Employee extends Person implements VacationAble {
         this.employeeAge = employeeAge;
     }
 
-    public String getEmployeeNewInfo() {
-        return employeeNewInfo;
+
+    public String getEmployeeOtherInfo() {
+        return employeeOtherInfo;
     }
 
-    public void setEmployeeNewInfo(String employeeNewInfo) {
-        this.employeeNewInfo = employeeNewInfo;
+    public void setEmployeeOtherInfo(String employeeOtherInfo) {
+        this.employeeOtherInfo = employeeOtherInfo;
     }
 
-//end getters and setters
+
+    //end getters and setters
+
 
 
     //Method implementation
