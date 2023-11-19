@@ -189,3 +189,67 @@ It is a non poisonous product
 21:23:25.304 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
 21:23:25.304 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 21:23:25.304 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+09:38:10.443 [main] INFO  com.solvd.hardwarestore1.Main - Inside try block to test Try catch with exception
+09:38:10.451 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+09:38:10.473 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+09:38:10.477 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+09:38:10.478 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+09:38:10.478 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+09:38:10.478 [main] INFO  com.solvd.hardwarestore1.Main - true
+09:38:10.483 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+09:38:10.483 [main] INFO  com.solvd.hardwarestore1.Main - 8
+09:38:10.484 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+09:38:10.503 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-19
+09:38:10.505 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+09:38:10.505 [main] INFO  com.solvd.hardwarestore1.Main - true
+09:38:10.513 [main] ERROR com.solvd.hardwarestore1.Employee - Something went wrong: com.solvd.hardwarestore1.NumberInNamesException: The employee name has a number, please correct it.
+09:38:10.513 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+09:38:10.513 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+09:38:10.514 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+09:38:10.515 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos1 has been added to the employee list.
+09:38:10.515 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+09:38:10.515 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+09:38:10.515 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+09:38:10.516 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+09:38:10.516 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+09:38:10.533 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+09:38:10.533 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos1
+Speciality: seller
+Phone number: 12345678
+09:38:10.547 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+09:38:10.548 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+09:38:10.549 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+09:38:10.553 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+09:38:10.553 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+09:38:10.553 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+09:38:10.553 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+09:38:10.554 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+09:38:10.555 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+09:38:10.555 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+09:38:10.555 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+09:38:10.555 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+09:38:10.556 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+09:38:10.556 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+09:38:10.556 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+09:38:10.556 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+09:38:10.557 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6

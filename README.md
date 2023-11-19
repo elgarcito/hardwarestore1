@@ -26,6 +26,13 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 16/11/2023
+Generate a conflict in gitHub. Make a pull request with branches
+
+* A new branch called newBranch1 was created, and a conflict was made and resolved.
+You can see it step-by-step pictures in the following directory:
+  https://drive.google.com/drive/folders/1aPUrI7j2o6Xd7OfIDnDRSRgBSf87Y5Tl?usp=sharing
+
 ### 14/11/2023
 Move all projects to Maven.
 
@@ -33,7 +40,8 @@ Move all projects to Maven.
 
 Build jar file and deploy to the local repository.
 
-The file Deployed in local repository.png is the output of the deployment.
+The file Deployed in local repository.png is the output of the deployment. You can see
+it in https://drive.google.com/file/d/1_0GB6kbZfPuli_DsCt8IvGRmxor423g6/view?usp=sharing
 
 
 Add 2 Plugins.
@@ -42,8 +50,8 @@ Add 2 Plugins.
 
 Run mvn for different phases from the Maven lifecycle. Check the result.
 
-* The file Lyfecycles stages.txt was added to the repository and has the result off all
-the terminal output in each phase.
+* The file Lyfecycles stages.txt has the result of all the terminal output 
+in each phase you can see it in https://drive.google.com/file/d/1wkyth1_KI37YRo-hycVTS-9rJ3lY2mLr/view?usp=sharing.
 
 
 
