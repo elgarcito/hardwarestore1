@@ -17,7 +17,6 @@ public class Employee extends Person implements VacationAble {
     private int employeeAge;//how old is the employee
 
     private String anotherEmployeeInfo;
-
     //The list that saves the Object employees
     public static final List<Employee> employeeList=new ArrayList<Employee>();
     //The list with the names only, this is public
@@ -80,13 +79,13 @@ public class Employee extends Person implements VacationAble {
         this.employeeAge = employeeAge;
     }
 
+
     public String getAnotherEmployeeInfo() {
         return anotherEmployeeInfo;
     }
 
     public void setAnotherEmployeeInfo(String anotherEmployeeInfo) {
         this.anotherEmployeeInfo = anotherEmployeeInfo;
-    }
 
     //end getters and setters
 
