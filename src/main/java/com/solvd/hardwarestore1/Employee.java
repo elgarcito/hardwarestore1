@@ -14,7 +14,7 @@ public class Employee extends Person implements VacationAble {
     private double costPerHour;//The pay per hour of the worker
     private String speciality;//What kind of job the worker does
 
-    private double employeeAge;//how old is the employee
+    private int employeeAge;//how old is the employee
 
     private String anotherEmployeeInfo;
 
@@ -72,11 +72,11 @@ public class Employee extends Person implements VacationAble {
         return employeeList;
     }
 
-    public double getEmployeeAge() {
+    public int getEmployeeAge() {
         return employeeAge;
     }
 
-    public void setEmployeeAge(double employeeAge) {
+    public void setEmployeeAge(int employeeAge) {
         this.employeeAge = employeeAge;
     }
 
