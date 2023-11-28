@@ -4,6 +4,16 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.collections4.CollectionUtils;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.List;
+import java.util.Map;
+
+
 /*Hardware store
 In this project, we have a hardware store that sells different products.
 We represent this product using classes.
@@ -189,7 +199,29 @@ public class Main {
         electricProductCustomLinkedList.printAllData();
 
          */
+        // Input and output file paths
+        String inputFilePath = "src/main/resources/input.txt";
+        String outputFilePath = "src/main/resources/output.txt";
 
+        try {
+            // Read text from the input file
+            String content = FileUtils.readFileToString(new File(inputFilePath), "UTF-8");
 
+            // Split the content into words
+            String[] words = StringUtils.split(content);
+
+            // Count the occurrences of each word
+            Map<String, Integer> wordCountMap = CollectionUtils.getCardinalityMap(List.of(words));
+
+            // Convert the map to a String representation
+            String result = StringUtils.join(wordCountMap.entrySet(), '\n');
+
+            // Write the result to the output file
+            FileUtils.writeStringToFile(new File(outputFilePath), result, "UTF-8");
+
+            System.out.println("Unique word count written to " + outputFilePath);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
