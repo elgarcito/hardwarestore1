@@ -26,6 +26,16 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 21/11/2023
+Read text from the file and calculate the numbers of the unique words. 
+Write the result to the file. 
+The main requirement is: using StringUtils and FileUtils to implement it with minimun 
+lines of code.
+
+* Create the ReadFile class java in head src directory. It has an static class
+ReadFile.readWriteFile(inputFilePath, ouputFilePath) that once called in the main
+method gives us the result that we need.
+
 ### 16/11/2023
 Generate a conflict in gitHub. Make a pull request with branches
 
