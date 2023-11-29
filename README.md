@@ -26,6 +26,16 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 28/11/2023
+Use at least 5 lambda functions from the java.util.function package.
+Create 3 custom Lambda functions with generics.
+Create 5 complex Enums(with fields, methods, blocks).
+
+* The five Enums are: PhoneNumbers, CurrencyExchange, BankAccounts, LowLevePassword,
+ImportantEmails
+
+
+
 ### 21/11/2023
 Read text from the file and calculate the numbers of the unique words. 
 Write the result to the file. 

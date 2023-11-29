@@ -205,5 +205,12 @@ public class Main {
         String inputFilePath = "src/main/resources/input.txt";
         String outputFilePath = "src/main/resources/output.txt";
         ReadFile.readWriteFile(inputFilePath,outputFilePath);
+
+        //Enum access
+        EmergencyPhoneNumbers.showNumbers();
+        CurrencyExchange.changeAmount(100.50);
+        BankAccounts.showBankAccounts();
+        LowLevelPassword.showPasswords();
+        String [] emailList=ImportantEmails.getEmails();
     }
 }
