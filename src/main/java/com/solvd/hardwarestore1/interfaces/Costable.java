@@ -1,4 +1,4 @@
-package com.solvd.hardwarestore1;/*
+package com.solvd.hardwarestore1.interfaces;/*
 This interface allow us to set the cost of a product.It uses:
 supplierCost: the cost of the supplier
 transportCost: the cost for transport the product to our store

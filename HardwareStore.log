@@ -1,0 +1,148 @@
+14:46:35.528 [main] INFO  com.solvd.hardwarestore1.Main - Inside try block to test Try catch with exception
+14:46:35.532 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+14:46:35.551 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+14:46:35.554 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+14:46:35.554 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+14:46:35.554 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+14:46:35.554 [main] INFO  com.solvd.hardwarestore1.Main - true
+14:46:35.557 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+14:46:35.557 [main] INFO  com.solvd.hardwarestore1.Main - 8
+14:46:35.557 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+14:46:35.568 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-30
+14:46:35.570 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+14:46:35.571 [main] INFO  com.solvd.hardwarestore1.Main - true
+14:46:35.577 [main] ERROR com.solvd.hardwarestore1.Employee - com.solvd.hardwarestore1.exceptions.NumberInNamesException: The employee name has a number, please correct it.
+14:46:35.578 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos1 has been added to the employee list.
+14:46:35.578 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+14:46:35.578 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+14:46:35.578 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+14:46:35.579 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+14:46:35.579 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+14:46:35.594 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+14:46:35.594 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos1
+Speciality: seller
+Phone number: 12345678
+14:46:35.616 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+14:46:35.616 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+14:46:35.616 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+14:46:35.619 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:46:35.620 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:46:35.622 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+14:46:35.622 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:46:35.622 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:46:35.623 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+14:46:35.623 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:46:35.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:46:35.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:46:35.685 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
+14:46:35.687 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
+14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
+14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:46:35.696 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
+14:46:35.697 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
+14:46:35.697 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
+14:46:35.721 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of OWNER_ACCOUNT has for alias: VU.LU.SU and for CBU: 32434354
+14:46:35.721 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of BUSINESS_ACCOUNT has for alias: PU.CU.TU and for CBU: 384926248
+14:46:35.721 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of ACCOUNTANT_ACCOUNT has for alias: RU.SU.MU and for CBU: 384148461
+14:46:35.730 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: CABLE_PASSWORD is: hwd1@gmail.com=Cable1234
+14:46:35.730 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: STEEL_SUPPLIER_PASSWORD is: hwd1@gmail.com=steel1234
+14:46:35.731 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: WATER_PUMP_PASSWORD is: hwd1@gmail.com=water1234
+14:48:27.034 [main] INFO  com.solvd.hardwarestore1.Main - Inside try block to test Try catch with exception
+14:48:27.042 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+14:48:27.055 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb
+The full description is:
+led light bulb
+14:48:27.059 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+14:48:27.059 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+14:48:27.059 [main] INFO  com.solvd.hardwarestore1.Main - EL1725986614
+14:48:27.060 [main] INFO  com.solvd.hardwarestore1.Main - true
+14:48:27.063 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+14:48:27.063 [main] INFO  com.solvd.hardwarestore1.Main - 8
+14:48:27.063 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+14:48:27.072 [main] INFO  com.solvd.hardwarestore1.Main - 2023-11-30
+14:48:27.075 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+14:48:27.075 [main] INFO  com.solvd.hardwarestore1.Main - true
+14:48:27.083 [main] ERROR com.solvd.hardwarestore1.Employee - com.solvd.hardwarestore1.exceptions.NumberInNamesException: The employee name has a number, please correct it.
+14:48:27.084 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos1 has been added to the employee list.
+14:48:27.084 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+14:48:27.085 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+14:48:27.085 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+14:48:27.085 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+14:48:27.085 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+14:48:27.095 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+14:48:27.097 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos1
+Speciality: seller
+Phone number: 12345678
+14:48:27.107 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+14:48:27.107 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+14:48:27.107 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+14:48:27.109 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+14:48:27.110 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+14:48:27.136 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:48:27.143 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
+14:48:27.143 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
+14:48:27.144 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
+14:48:27.152 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of OWNER_ACCOUNT has for alias: VU.LU.SU and for CBU: 32434354
+14:48:27.152 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of BUSINESS_ACCOUNT has for alias: PU.CU.TU and for CBU: 384926248
+14:48:27.153 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of ACCOUNTANT_ACCOUNT has for alias: RU.SU.MU and for CBU: 384148461
+14:48:27.154 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: CABLE_PASSWORD is: hwd1@gmail.com=Cable1234
+14:48:27.155 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: STEEL_SUPPLIER_PASSWORD is: hwd1@gmail.com=steel1234
+14:48:27.155 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: WATER_PUMP_PASSWORD is: hwd1@gmail.com=water1234

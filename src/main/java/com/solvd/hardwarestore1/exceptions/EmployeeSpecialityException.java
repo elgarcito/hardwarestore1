@@ -1,4 +1,4 @@
-package com.solvd.hardwarestore1;
+package com.solvd.hardwarestore1.exceptions;
 
 public class EmployeeSpecialityException extends Exception{
     public EmployeeSpecialityException(String message){

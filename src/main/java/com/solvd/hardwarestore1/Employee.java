@@ -1,5 +1,7 @@
 package com.solvd.hardwarestore1;
 
+import com.solvd.hardwarestore1.exceptions.*;
+import com.solvd.hardwarestore1.interfaces.VacationAble;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -111,7 +113,7 @@ public class Employee extends Person implements VacationAble {
     }
     //This method allows checking if the employee name is longer than the maximum it is used to
     // define the exception
-    public void throwNameException(String employeeName) throws LongEmployeeNameException,NumberInNamesException{
+    public void throwNameException(String employeeName) throws LongEmployeeNameException, NumberInNamesException {
             if (employeeName.length()>20) {
                 throw new LongEmployeeNameException("The name is too long, pleas make it less than 20 characters.");
             }else if ((employeeName.contains("0") || employeeName.contains("1") || employeeName.contains("2") || employeeName.contains("3") || employeeName.contains("4") || employeeName.contains("5") || employeeName.contains("6") || employeeName.contains("7") || employeeName.contains("8") || employeeName.contains("9"))){
@@ -122,7 +124,7 @@ public class Employee extends Person implements VacationAble {
     }
 
     //This exception check Email
-    public void throwEmailException(String employeeEmail) throws EmailException{
+    public void throwEmailException(String employeeEmail) throws EmailException {
             if (!employeeEmail.contains("@gmail.com") ) {
                 throw new EmailException("Please only use a @gmail.com email.");
             } else {
@@ -130,7 +132,7 @@ public class Employee extends Person implements VacationAble {
             }
     }
     //This exception checks the phone number length
-    public void throwPhoneNumberException(String employeePhoneNumber) throws PhoneNumberException{
+    public void throwPhoneNumberException(String employeePhoneNumber) throws PhoneNumberException {
             if (employeePhoneNumber.length()==8) {
                 LOGGER.info("The 8 digit phone number is Ok.");
             } else {
@@ -140,7 +142,7 @@ public class Employee extends Person implements VacationAble {
     }
 
     //This exception checks the speciality
-    public void throwEmployeeSpecialityException(String employeeSpeciality) throws EmployeeSpecialityException{
+    public void throwEmployeeSpecialityException(String employeeSpeciality) throws EmployeeSpecialityException {
             if (employeeSpeciality.equals("seller")|| employeeSpeciality.equals("owner") || employeeSpeciality.equals("deposit")) {
                 LOGGER.info("The specialty "+employeeSpeciality+" is Ok.");
             }else {

@@ -1,4 +1,4 @@
-package com.solvd.hardwarestore1;
+package com.solvd.hardwarestore1.interfaces;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package com.solvd.hardwarestore1;
+package com.solvd.hardwarestore1.interfaces;
 
 /*
 This interface allows us to remove from the stock the amount sold, it needs:

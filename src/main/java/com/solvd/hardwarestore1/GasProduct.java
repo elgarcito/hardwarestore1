@@ -1,5 +1,9 @@
 package com.solvd.hardwarestore1;
 
+import com.solvd.hardwarestore1.interfaces.Available;
+import com.solvd.hardwarestore1.interfaces.Costable;
+import com.solvd.hardwarestore1.interfaces.Sellable;
+import com.solvd.hardwarestore1.interfaces.StockChangeable;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

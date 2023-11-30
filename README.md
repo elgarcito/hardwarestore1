@@ -31,7 +31,7 @@ Use at least 5 lambda functions from the java.util.function package.
 Create 3 custom Lambda functions with generics.
 Create 5 complex Enums(with fields, methods, blocks).
 
-* The five Enums are: PhoneNumbers, CurrencyExchange, BankAccounts, LowLevePassword,
+* The five Enums are: PhoneNumbers, CurrencyExchange, BankAccounts, LowLevelPassword,
 ImportantEmails
 
 
@@ -96,7 +96,7 @@ Create custom LinkedList with generic.
 ### 07/11/2023
 Create 5 custom exceptions.
 
-The exception added are: 
+The exception added are in the package exceptions: 
 1. PhoneNumberException
 2. NumberInNamesException
 3. LongEmployeeNameException
@@ -127,6 +127,8 @@ Add 5 interfaces to the existing hierarchy. Use polymorphism with the abstract c
 * The interfaces added for products that are not raw material: Selleable, Priceable, Costable, Available, StockChangeable.
 These interfaces are implemented in the ElectricProduct class
 * The interfaces added for Employee: VacationAble. This interface is used in the Employee class
+
+these interfaces are in the package interfaces.
 
 Create final class, method, variable.
 
