@@ -33,6 +33,8 @@ Create 5 complex Enums(with fields, methods, blocks).
 
 * The five Enums are: PhoneNumbers, CurrencyExchange, BankAccounts, LowLevelPassword,
 ImportantEmails
+* The five lambda functions are in the class RawMaterial in the method separateProduct().
+The functions used are: Function-Bifunction-Predicate-Biconsumer-Supplier.
 
 
 

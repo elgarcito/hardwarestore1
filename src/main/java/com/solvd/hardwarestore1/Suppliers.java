@@ -2,13 +2,13 @@ package com.solvd.hardwarestore1;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Supplier extends Person {
-    private static final Logger LOGGER= LogManager.getLogger(Supplier.class);
+public class Suppliers extends Person {
+    private static final Logger LOGGER= LogManager.getLogger(Suppliers.class);
     private String productSupplied;//What kind of product supplies
     private int supplierAge;
 
     //Constructor
-    public Supplier(String personName, String personEmail, String phoneNumber,String productSupplied) {
+    public Suppliers(String personName, String personEmail, String phoneNumber, String productSupplied) {
         super(personName, personEmail, phoneNumber);
         this.productSupplied=productSupplied;
     }

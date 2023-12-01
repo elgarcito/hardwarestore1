@@ -4,18 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.StringUtils;
-import org.apache.commons.collections4.CollectionUtils;
-
-import java.io.File;
-import java.io.IOException;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-
 /*Hardware store
 In this project, we have a hardware store that sells different products.
 We represent this product using classes.
@@ -211,10 +199,11 @@ public class Main {
         CurrencyExchange.changeAmount(100.50);
         BankAccounts.showBankAccounts();
         LowLevelPassword.showPasswords();
-        String [] emailList=ImportantEmails.getEmails();
+        String [] emailList= ImportantEmails.getEmails();
 
         //
+        carlosRusso.calculateExtras(100);
 
-
+        LOGGER.info(RawMaterial.separateProduct("sand",1000,carlosRusso2));
     }
 }

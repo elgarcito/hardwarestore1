@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.function.Function;
 
 public class Employee extends Person implements VacationAble {
     private static final Logger LOGGER= LogManager.getLogger(Employee.class);
@@ -19,6 +20,8 @@ public class Employee extends Person implements VacationAble {
     private int employeeAge;//how old is the employee
 
     private String employeeOtherInfo;
+
+    private String extrawork;
 
 
     //The list that saves the Object employees
@@ -90,6 +93,14 @@ public class Employee extends Person implements VacationAble {
 
     public void setEmployeeOtherInfo(String employeeOtherInfo) {
         this.employeeOtherInfo = employeeOtherInfo;
+    }
+
+    public String getExtrawork() {
+        return extrawork;
+    }
+
+    public void setExtrawork(String extrawork) {
+        this.extrawork = extrawork;
     }
 
 
@@ -190,6 +201,38 @@ public class Employee extends Person implements VacationAble {
                 "\nOwner: "+PayingRates.getOWNER_RATE()+" USD/h";
         LOGGER.info(message);
     }
+
+    //This method give us extra pays due to sales
+    public String calculateExtras(int amountSold){
+       Integer amountSelled1= amountSold;
+
+        Function<Integer,String> calculateSold= result->{
+          if (result>=50 && result<100){
+              LOGGER.info("The extra pay for: "+this.getPersonName() +" is 50 usd$");
+              return "The extra pay for: "+this.getPersonName() +" is 50 usd$";
+          }else if (result>=100 && result<150){
+              LOGGER.info("The extra pay for: "+this.getPersonName() +" is 150 usd$");
+              return "The extra pay for: "+this.getPersonName() +" is 150 usd$";
+          }else if (result>=150){
+              LOGGER.info("The extra pay for: "+this.getPersonName() +" is 250 usd$");
+              return "The extra pay for: "+this.getPersonName() +" is 250 usd$";
+          }
+          return "No extra payment";
+          };
+
+        return calculateSold.apply(amountSelled1);
+    }
+
+
+    ;
+
+
+
+
+
+
+
+
 
 
     //end methods

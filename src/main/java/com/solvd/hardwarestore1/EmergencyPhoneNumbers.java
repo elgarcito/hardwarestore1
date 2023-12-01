@@ -7,16 +7,16 @@ public enum EmergencyPhoneNumbers {
     EMERGENCY ("+5422992499"),
     POLICE ("+45842358665"),
     FIREFIGHTER ("+21912384");
-    private final String phoneNumber;
+    private final String PHONE_NUMBER;
     private static final Logger LOGGER= LogManager.getLogger(EmergencyPhoneNumbers.class);
-    private final String codeArea ="+548";
+
     EmergencyPhoneNumbers(String phoneNumber) {
-        this.phoneNumber=phoneNumber;
+        this.PHONE_NUMBER =phoneNumber;
     }
 
-    static void showNumbers(){
+     static void showNumbers(){
         for (EmergencyPhoneNumbers phoneNumber: EmergencyPhoneNumbers.values()) {
-            LOGGER.info("The "+ phoneNumber+" phone number is: " + phoneNumber.phoneNumber);
+            LOGGER.info("The "+ phoneNumber+" phone number is: " + phoneNumber.PHONE_NUMBER);
         }
     }
 
