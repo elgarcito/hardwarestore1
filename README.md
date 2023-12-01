@@ -35,7 +35,12 @@ Create 5 complex Enums(with fields, methods, blocks).
 ImportantEmails
 * The five lambda functions are in the class RawMaterial in the method separateProduct().
 The functions used are: Function-Bifunction-Predicate-Biconsumer-Supplier.
-
+* The three custom lambda functions with generics are in the package func_interfaces. These are:
+  * ModifyAnyString
+  * OperateInEmployeeList
+  * ResultAsInteger
+  
+The implementation of this lambda functions are in the main method from line 223 to line 251
 
 
 ### 21/11/2023
