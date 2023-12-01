@@ -1,6 +1,5 @@
 package com.solvd.hardwarestore1;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;
@@ -105,7 +104,7 @@ public abstract class RawMaterial {
         BiConsumer<Employee,Integer> assignWorkToEmployee=(employee1,extraHours)->{
             String message ="You have been asigned with "+extraHours+" min of extra " +
                     "work ask the manager for details" ;
-            employee1.setExtrawork(message);
+            employee1.setExtraWork(message);
         };
 
         Supplier<LocalDateTime> transactionDate =()-> LocalDateTime.now();

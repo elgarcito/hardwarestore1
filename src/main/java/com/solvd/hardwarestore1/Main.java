@@ -1,7 +1,14 @@
 package com.solvd.hardwarestore1;
 
+
+import com.solvd.hardwarestore1.func_interfaces.ModifyAnyString;
+import com.solvd.hardwarestore1.func_interfaces.OperateInEmployeeList;
+import com.solvd.hardwarestore1.func_interfaces.ResultAsInteger;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.util.ArrayList;
+import java.util.Random;
 
 
 /*Hardware store
@@ -33,17 +40,17 @@ public class Main {
 
     public static void main(String[] args) {
 
-        try(AutoCloseable ac= new AutoClosableNoResource()){
+        try (AutoCloseable ac = new AutoClosableNoResource()) {
             LOGGER.info("Inside try block to test Try catch with exception");
-        }catch (Exception e){
-            LOGGER.error("An error occurred: "+e);
+        } catch (Exception e) {
+            LOGGER.error("An error occurred: " + e);
         }
 
         //Example
         LOGGER.info("Hello and welcome to hardware store!!");
         System.out.println();
         //Creating the first Electric product
-        ElectricProduct lightBulb=new ElectricProduct("Light bulb","led light bulb");
+        ElectricProduct lightBulb = new ElectricProduct("Light bulb", "led light bulb");
         //Getting the product name
         LOGGER.info(lightBulb.toString());
         //setting the power field
@@ -51,12 +58,12 @@ public class Main {
         //getting the power field
         LOGGER.info(lightBulb.getPower());
         //Using the method defineCost of the interface Costable override in Electric product
-        LOGGER.info(lightBulb.defineCost(1,0.01,0));
+        LOGGER.info(lightBulb.defineCost(1, 0.01, 0));
         System.out.println();
         System.out.println();
         System.out.println();
         //Creating the second Electric product
-        ElectricProduct lightBulb2=new ElectricProduct("Light bulb","led light bulb");
+        ElectricProduct lightBulb2 = new ElectricProduct("Light bulb", "led light bulb");
 
         //getting the lightBulb2 id that used hashCode override to create a unique id
         LOGGER.info(lightBulb2.getElectricId());
@@ -68,12 +75,12 @@ public class Main {
         LOGGER.info(lightBulb.equals(lightBulb2));
 
         //Creating a new gas Product
-        GasProduct gasBurner=new GasProduct("Gas Burner","Gas kitchen burner");
+        GasProduct gasBurner = new GasProduct("Gas Burner", "Gas kitchen burner");
         System.out.println();
         System.out.println();
         System.out.println();
         System.out.println("gas burner2");
-        GasProduct gasBurner2=new GasProduct("Gas Burner","Gas kitchen burner");
+        GasProduct gasBurner2 = new GasProduct("Gas Burner", "Gas kitchen burner");
         gasBurner2.setStock(8);
         gasBurner2.removeStock(5);
         LOGGER.info(gasBurner2.getStock());
@@ -83,16 +90,18 @@ public class Main {
         System.out.println();
         System.out.println();
         //Creating a product that is not part of Product, but it is part of RawMaterial super
-        ConstructionProduct sand =new ConstructionProduct("Sand","White sand","Tn");
+        ConstructionProduct sand = new ConstructionProduct("Sand", "White sand", "Tn");
         //Using a method inside this class
-        LOGGER.info(sand.checkLicence(true,"ABC",3));
+        LOGGER.info(sand.checkLicence(true, "ABC", 3));
         System.out.println();
         System.out.println();
         System.out.println();
         System.out.println();
         //Creating a new employee
-        Employee carlosRusso=new Employee("carlos1","123@gmail.com","12345678","seller");
+        Employee carlosRusso = new Employee("carlos Russo", "123@gmail.com", "12345678", "Deposit");
         System.out.println();
+        //Set vacation
+        carlosRusso.setVacation(carlosRusso.seeVacation("Deposit"));
         //Check personalized exception
         carlosRusso.checkEmployeeData();
         //End check personalized exception
@@ -104,21 +113,23 @@ public class Main {
         System.out.println();
         System.out.println();
         //Creating a new employee
-        Employee carlosRusso2=new Employee("Jose Antonio","123@gmail.com","12345678","seller");
+        Employee joseAntonio = new Employee("Jose Antonio", "123@gmail.com", "12345678", "seller");
+        //Set vacation
+        joseAntonio.setVacation(joseAntonio.seeVacation("seller"));
         //Check personalized exception before adding in the list
         System.out.println();
-        carlosRusso2.checkEmployeeData();
+        joseAntonio.checkEmployeeData();
         System.out.println();
         //Adding this employee to the private static List employeeList
-        Employee.setEmployeeList(carlosRusso2);
+        Employee.setEmployeeList(joseAntonio);
         System.out.println();
         //Adding this employee to the private static List employeeList
         //See all the employees of the company with the info
         Employee.seeEmployeeList();
         // Creating a set list of garden product
-        GardenProduct gardenScissors=new GardenProduct("Big scissors","Big size scissors to cut grass",false);
-        GardenProduct gardenScissors1=new GardenProduct("Medium scissors","Medium size scissors to cut grass",false);
-        GardenProduct gardenScissors2=new GardenProduct("Small scissors","Small size scissors to cut grass",false);
+        GardenProduct gardenScissors = new GardenProduct("Big scissors", "Big size scissors to cut grass", false);
+        GardenProduct gardenScissors1 = new GardenProduct("Medium scissors", "Medium size scissors to cut grass", false);
+        GardenProduct gardenScissors2 = new GardenProduct("Small scissors", "Small size scissors to cut grass", false);
         //Adding the products to the setList gardenProductSetList and checking that it cant set duplicate objects
         GardenProduct.setGardenProductSetList(gardenScissors);
         GardenProduct.setGardenProductSetList(gardenScissors);
@@ -134,7 +145,7 @@ public class Main {
         //Interacting with the CustomLinkedList
 
         //Trying the CustomLinkedList With generics
-        CustomLinkedList<String> myList=new CustomLinkedList<String>();
+        CustomLinkedList<String> myList = new CustomLinkedList<String>();
         myList.addEndNode("1");
         myList.addEndNode("2");
         myList.addEndNode("5");
@@ -192,18 +203,52 @@ public class Main {
         // Input and output file paths and writing and reading exercise
         String inputFilePath = "src/main/resources/input.txt";
         String outputFilePath = "src/main/resources/output.txt";
-        ReadFile.readWriteFile(inputFilePath,outputFilePath);
+        ReadFile.readWriteFile(inputFilePath, outputFilePath);
 
         //Enum access
         EmergencyPhoneNumbers.showNumbers();
         CurrencyExchange.changeAmount(100.50);
         BankAccounts.showBankAccounts();
         LowLevelPassword.showPasswords();
-        String [] emailList= ImportantEmails.getEmails();
+        String[] emailList = ImportantEmails.getEmails();
 
         //
         carlosRusso.calculateExtras(100);
 
-        LOGGER.info(RawMaterial.separateProduct("sand",1000,carlosRusso2));
+        LOGGER.info(RawMaterial.separateProduct("sand", 1000, joseAntonio));
+
+
+        //Custom lambda function 1
+
+        OperateInEmployeeList<ArrayList<Employee>, ArrayList<String>> getEmployeeNameList = employeesList -> {
+            ArrayList<String> list1 = new ArrayList<>();
+            for (Employee employee : employeesList) {
+                list1.add(employee.getPersonName());
+            }
+            return list1;
+        };
+        ArrayList<String> list2 = getEmployeeNameList.getFromEmployeeArray(Employee.getEmployeeList());
+        for (String name : list2) {
+            LOGGER.info(name);
+        }
+
+
+        //Custom lambda function 2
+        ModifyAnyString<String> addRandomGoodBye = text->{
+            String [] goodBye={ " .Goodbye! Take care.",
+                    " .Farewell! Until we meet again.",
+                    " .Adios! Wishing you the best.",};
+            Random random =new Random();
+            return text+goodBye[random.nextInt(2)];
+        };
+
+        LOGGER.info(addRandomGoodBye.getModifiedString("You own 22$"));
+
+        //Custom lambda function 3
+        ResultAsInteger<Employee,Employee> howManyVacationDays= (employee,employee1)->
+                employee.getVacation()+employee1.getVacation();
+
+        LOGGER.info("both employees have: "+howManyVacationDays.resultIsInteger(joseAntonio,carlosRusso)+" days of vacation");
+
     }
 }

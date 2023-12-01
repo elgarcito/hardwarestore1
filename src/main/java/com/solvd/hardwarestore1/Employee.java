@@ -7,7 +7,6 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 import java.util.function.Function;
 
@@ -21,11 +20,15 @@ public class Employee extends Person implements VacationAble {
 
     private String employeeOtherInfo;
 
-    private String extrawork;
+    private String extraWork;
+
+    private Integer vacation;
+
+
 
 
     //The list that saves the Object employees
-    public static final List<Employee> employeeList=new ArrayList<Employee>();
+    private static final ArrayList<Employee> employeeList=new ArrayList<Employee>();
     //The list with the names only, this is public
     public static final Set<String> resumedEmployeeInformationList=new HashSet<String>() {
     };
@@ -74,8 +77,9 @@ public class Employee extends Person implements VacationAble {
         LOGGER.info("The employee "+ employee.getPersonName()+" has been added to the employee list." );
     }
 
-    public static List<Employee> getEmployeeList(){
-        return employeeList;
+    public static ArrayList<Employee> getEmployeeList(){
+        //Envio una copia de la lista, no la lista misma
+        return new ArrayList<>(employeeList);
     }
 
     public int getEmployeeAge() {
@@ -95,14 +99,21 @@ public class Employee extends Person implements VacationAble {
         this.employeeOtherInfo = employeeOtherInfo;
     }
 
-    public String getExtrawork() {
-        return extrawork;
+    public String getExtraWork() {
+        return extraWork;
     }
 
-    public void setExtrawork(String extrawork) {
-        this.extrawork = extrawork;
+    public void setExtraWork(String extraWork) {
+        this.extraWork = extraWork;
     }
 
+    public void setVacation(Integer vacation) {
+        this.vacation = vacation;
+    }
+
+    public Integer getVacation() {
+        return vacation;
+    }
 
     //end getters and setters
 
@@ -110,7 +121,7 @@ public class Employee extends Person implements VacationAble {
 
     //Method implementation
     @Override
-    public int setVacation(String speciality){
+    public int seeVacation(String speciality){
         switch (speciality){
             case "Owner":
                 return 35;
@@ -122,6 +133,13 @@ public class Employee extends Person implements VacationAble {
         LOGGER.info("No valid speciality");
         return 0;
     }
+
+
+
+
+
+
+
     //This method allows checking if the employee name is longer than the maximum it is used to
     // define the exception
     public void throwNameException(String employeeName) throws LongEmployeeNameException, NumberInNamesException {
