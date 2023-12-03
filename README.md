@@ -64,10 +64,14 @@ method gives us the result that we need.
 
 ### 16/11/2023
 Generate a conflict in gitHub. Make a pull request with branches
+Generate a pull request with fork
 
 * A new branch called newBranch1 was created, and a conflict was made and resolved.
 You can see it step-by-step pictures in the following directory:
   https://drive.google.com/drive/folders/1aPUrI7j2o6Xd7OfIDnDRSRgBSf87Y5Tl?usp=sharing
+
+* A pull request was made with small changes.You can see it step-by-step pictures in the following directory:
+* https://drive.google.com/drive/folders/11uhG2z2faQPnUC3HJOPEl_gbkQNyr16x?usp=sharing
 
 ### 14/11/2023
 Move all projects to Maven.

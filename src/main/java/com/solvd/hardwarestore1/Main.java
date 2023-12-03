@@ -1,6 +1,5 @@
 package com.solvd.hardwarestore1;
 
-
 import com.solvd.hardwarestore1.func_interfaces.ModifyAnyString;
 import com.solvd.hardwarestore1.func_interfaces.OperateInEmployeeList;
 import com.solvd.hardwarestore1.func_interfaces.ResultAsInteger;
@@ -322,9 +321,6 @@ public class Main {
 
         //7 Find a number in a file and
         ReadFile.findAnyNumber(inputFilePath,outputFilePath);
-
-
-
 
     }
 }
