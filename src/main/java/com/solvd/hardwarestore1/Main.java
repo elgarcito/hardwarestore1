@@ -207,10 +207,10 @@ public class Main {
         ReadFile.readWriteFile(inputFilePath, outputFilePath);
 
         //Enum access
-        EmergencyPhoneNumbers.showNumbers();
+        EmergencyExchangePhonenNumber.showNumbers();
         CurrencyExchange.changeAmount(100.50);
         BankAccounts.showBankAccounts();
-        LowLevelPassword.showPasswords();
+        ExchangerPlatformPassword.showPasswords();
         String[] emailList = ImportantEmails.getEmails();
 
         //
@@ -322,8 +322,6 @@ public class Main {
 
         //7 Find a number in a file and
         ReadFile.findAnyNumber(inputFilePath,outputFilePath);
-
-
 
 
 

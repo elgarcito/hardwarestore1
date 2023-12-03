@@ -1,20 +1,23 @@
 package com.solvd.hardwarestore1;
 
 public enum ImportantEmails {
-    PRESIDENT_OF_USA ("iambiden@gmail.com"),
-    PRESIDENT_OF_ARGENTINA ("iammilei@gmail.com"),
-    PRESIDENT_OF_RUSSIA("iamputin@gmail.com");
+    YUAN_EXCHANGER_PLATFORM_EMAIL("YUAN_yuam@gmail.com",ExchangerPlatformPassword.YUAN_PASSWORD),
+    EURO_EXCHANGER_PLATFORM_EMAIL("euro_yes_yes@gmail.com",ExchangerPlatformPassword.EURO_PASSWORD),
+    COLOMBIAN_EXCHANGER_PLATFORM_EMAIL("vivaElpesocol@gmail.com",ExchangerPlatformPassword.COLOMBIAN_PESO_PASSWORD);
 
     private final String EMAIL;
-    ImportantEmails(String email){
+
+    private final ExchangerPlatformPassword PASSWORD;
+    ImportantEmails(String email,ExchangerPlatformPassword password){
         this.EMAIL=email;
+        this.PASSWORD=password;
     }
 
      static String [] getEmails(){
         String [] arrayWithEmails=new String[3];
-        arrayWithEmails[0]= PRESIDENT_OF_USA.EMAIL;
-        arrayWithEmails[1]= PRESIDENT_OF_ARGENTINA.EMAIL;
-        arrayWithEmails[2]= PRESIDENT_OF_RUSSIA.EMAIL;
+        arrayWithEmails[0]= YUAN_EXCHANGER_PLATFORM_EMAIL.EMAIL;
+        arrayWithEmails[1]= EURO_EXCHANGER_PLATFORM_EMAIL.EMAIL;
+        arrayWithEmails[2]= COLOMBIAN_EXCHANGER_PLATFORM_EMAIL.EMAIL;
         /*
         for (String c:arrayWithEmails) {
             System.out.println(c);

@@ -60,9 +60,9 @@ It is a non poisonous product
 14:46:35.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:46:35.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:46:35.685 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:46:35.687 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:46:35.687 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:46:35.688 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:46:35.696 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:46:35.697 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:46:35.697 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -134,9 +134,9 @@ It is a non poisonous product
 14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:48:27.111 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:48:27.136 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:48:27.138 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:48:27.143 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:48:27.143 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:48:27.144 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -208,9 +208,9 @@ It is a non poisonous product
 16:18:33.392 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:18:33.392 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:18:33.423 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:18:33.425 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:18:33.430 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:18:33.431 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:18:33.431 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -282,9 +282,9 @@ It is a non poisonous product
 16:20:24.904 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:20:24.904 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:20:24.930 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:20:24.932 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:20:24.939 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:20:24.940 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:20:24.942 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -357,9 +357,9 @@ It is a non poisonous product
 16:20:28.762 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:20:28.762 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:20:28.792 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:20:28.794 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:20:28.799 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:20:28.799 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:20:28.800 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -432,9 +432,9 @@ It is a non poisonous product
 16:22:06.227 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:22:06.227 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:22:06.254 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:22:06.256 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:22:06.261 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:22:06.261 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:22:06.262 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -507,9 +507,9 @@ It is a non poisonous product
 17:25:51.379 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:25:51.379 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:25:51.405 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:25:51.407 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:25:51.407 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:25:51.408 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:25:51.407 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:25:51.407 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:25:51.408 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:25:51.412 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:25:51.413 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:25:51.413 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -582,9 +582,9 @@ It is a non poisonous product
 17:53:31.428 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:53:31.428 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:53:31.457 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:53:31.459 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:53:31.459 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:53:31.460 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:53:31.459 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:53:31.459 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:53:31.460 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:53:31.464 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:53:31.465 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:53:31.466 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -658,9 +658,9 @@ It is a non poisonous product
 17:54:22.628 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:54:22.628 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:54:22.665 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:54:22.669 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:54:22.669 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:54:22.670 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:54:22.669 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:54:22.669 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:54:22.670 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:54:22.683 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:54:22.694 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:54:22.698 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -734,9 +734,9 @@ It is a non poisonous product
 17:54:46.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:54:46.648 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:54:46.679 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:54:46.681 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:54:46.688 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:54:46.688 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:54:46.689 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -810,9 +810,9 @@ It is a non poisonous product
 17:55:42.444 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:55:42.444 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:55:42.484 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:55:42.487 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:55:42.488 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:55:42.488 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:55:42.487 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:55:42.488 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:55:42.488 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:55:42.504 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:55:42.505 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:55:42.505 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -886,9 +886,9 @@ It is a non poisonous product
 17:58:06.765 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:58:06.765 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:58:06.801 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:58:06.803 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:58:06.803 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:58:06.804 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:58:06.803 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:58:06.803 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:58:06.804 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:58:06.809 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:58:06.811 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:58:06.814 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -962,9 +962,9 @@ It is a non poisonous product
 17:59:05.654 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:59:05.655 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:59:05.681 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:59:05.684 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:59:05.689 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:59:05.689 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:59:05.690 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1038,9 +1038,9 @@ It is a non poisonous product
 17:59:44.932 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:59:44.932 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:59:44.966 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:59:44.968 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:59:44.970 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:59:44.970 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:59:44.968 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:59:44.970 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:59:44.970 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:59:44.976 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:59:44.979 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:59:44.979 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1114,9 +1114,9 @@ It is a non poisonous product
 15:00:58.036 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:00:58.036 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:00:58.098 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:00:58.100 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:00:58.100 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:00:58.101 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:00:58.100 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:00:58.100 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:00:58.101 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:00:58.111 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:00:58.112 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:00:58.116 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1190,9 +1190,9 @@ It is a non poisonous product
 15:21:40.652 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:21:40.652 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:21:40.684 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:21:40.686 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:21:40.691 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:21:40.692 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:21:40.693 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1266,9 +1266,9 @@ It is a non poisonous product
 15:30:15.817 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:30:15.817 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:30:15.852 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:30:15.856 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:30:15.867 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:30:15.867 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:30:15.867 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1342,9 +1342,9 @@ It is a non poisonous product
 15:31:31.299 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:31:31.299 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:31:31.328 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:31:31.331 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:31:31.331 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:31:31.332 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:31:31.331 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:31:31.331 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:31:31.332 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:31:31.338 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:31:31.339 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:31:31.339 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1418,9 +1418,9 @@ It is a non poisonous product
 15:32:00.313 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:32:00.313 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:32:00.356 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:32:00.361 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:32:00.361 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:32:00.362 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:32:00.361 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:32:00.361 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:32:00.362 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:32:00.369 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:32:00.371 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:32:00.372 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1494,9 +1494,9 @@ It is a non poisonous product
 15:33:19.301 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:33:19.301 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:33:19.330 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:33:19.332 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:33:19.333 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:33:19.333 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:33:19.332 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:33:19.333 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:33:19.333 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:33:19.341 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:33:19.342 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:33:19.342 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1570,9 +1570,9 @@ It is a non poisonous product
 15:33:42.281 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:33:42.281 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:33:42.309 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:33:42.311 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:33:42.311 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:33:42.312 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:33:42.311 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:33:42.311 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:33:42.312 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:33:42.318 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:33:42.318 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:33:42.318 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1646,9 +1646,9 @@ It is a non poisonous product
 15:37:11.841 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:37:11.841 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:37:11.875 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:37:11.878 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:37:11.888 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:37:11.890 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:37:11.890 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1722,9 +1722,9 @@ It is a non poisonous product
 15:39:26.151 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:39:26.152 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:39:26.183 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:39:26.186 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:39:26.194 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:39:26.194 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:39:26.194 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1797,9 +1797,9 @@ It is a non poisonous product
 15:40:11.261 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:40:11.261 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:40:11.296 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:40:11.299 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:40:11.307 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:40:11.308 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:40:11.308 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1873,9 +1873,9 @@ It is a non poisonous product
 15:40:55.264 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:40:55.264 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:40:55.294 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:40:55.296 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:40:55.297 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:40:55.297 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:40:55.296 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:40:55.297 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:40:55.297 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:40:55.303 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:40:55.303 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:40:55.303 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -1949,9 +1949,9 @@ It is a non poisonous product
 15:41:14.548 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:41:14.548 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:41:14.578 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:41:14.581 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:41:14.589 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:41:14.590 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:41:14.590 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2025,9 +2025,9 @@ It is a non poisonous product
 15:41:35.126 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:41:35.126 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:41:35.155 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:41:35.156 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:41:35.157 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:41:35.157 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:41:35.156 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:41:35.157 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:41:35.157 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:41:35.163 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:41:35.165 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:41:35.167 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2101,9 +2101,9 @@ It is a non poisonous product
 15:45:17.068 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:45:17.068 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:45:17.101 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:45:17.103 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:45:17.112 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:45:17.113 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:45:17.113 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2177,9 +2177,9 @@ It is a non poisonous product
 15:45:39.982 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:45:39.983 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:45:40.010 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:45:40.013 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:45:40.019 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:45:40.019 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:45:40.020 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2253,9 +2253,9 @@ It is a non poisonous product
 15:47:09.650 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:47:09.650 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:47:09.680 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:47:09.682 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:47:09.688 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:47:09.689 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:47:09.689 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2329,9 +2329,9 @@ It is a non poisonous product
 15:47:49.850 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:47:49.851 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:47:49.882 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:47:49.885 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:47:49.890 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:47:49.891 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:47:49.891 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2405,9 +2405,9 @@ It is a non poisonous product
 15:48:58.710 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:48:58.710 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:48:58.744 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:48:58.746 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:48:58.747 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:48:58.747 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:48:58.746 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:48:58.747 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:48:58.747 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:48:58.754 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:48:58.756 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:48:58.759 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2482,9 +2482,9 @@ It is a non poisonous product
 15:50:18.801 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:50:18.801 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:50:18.827 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:50:18.831 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:50:18.832 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:50:18.832 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:50:18.831 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:50:18.832 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:50:18.832 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:50:18.840 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:50:18.849 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:50:18.850 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2560,9 +2560,9 @@ It is a non poisonous product
 17:24:24.208 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:24:24.208 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:24:24.237 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:24:24.239 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:24:24.243 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:24:24.244 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:24:24.244 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2638,9 +2638,9 @@ It is a non poisonous product
 17:39:12.286 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:39:12.286 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:39:12.315 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:39:12.317 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:39:12.322 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:39:12.322 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:39:12.323 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2716,9 +2716,9 @@ It is a non poisonous product
 17:53:06.301 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:53:06.301 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:53:06.333 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:53:06.334 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:53:06.335 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:53:06.335 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:53:06.334 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:53:06.335 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:53:06.335 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:53:06.342 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:53:06.343 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:53:06.343 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2794,9 +2794,9 @@ It is a non poisonous product
 17:54:22.001 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:54:22.001 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:54:22.036 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:54:22.039 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:54:22.045 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:54:22.045 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:54:22.046 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2872,9 +2872,9 @@ It is a non poisonous product
 17:55:04.554 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:55:04.554 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:55:04.585 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:55:04.587 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:55:04.588 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:55:04.588 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:55:04.587 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:55:04.588 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:55:04.588 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:55:04.593 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:55:04.595 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:55:04.596 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -2950,9 +2950,9 @@ It is a non poisonous product
 18:35:28.448 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:35:28.448 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:35:28.486 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:35:28.488 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:35:28.494 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:35:28.496 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:35:28.498 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3031,9 +3031,9 @@ It is a non poisonous product
 18:35:59.311 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:35:59.311 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:35:59.363 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:35:59.365 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:35:59.365 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:35:59.366 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:35:59.365 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:35:59.365 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:35:59.366 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:35:59.380 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:35:59.381 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:35:59.381 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3112,9 +3112,9 @@ It is a non poisonous product
 18:36:05.596 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:36:05.596 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:36:05.630 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:36:05.634 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:36:05.635 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:36:05.635 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:36:05.634 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:36:05.635 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:36:05.635 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:36:05.640 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:36:05.641 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:36:05.641 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3193,9 +3193,9 @@ It is a non poisonous product
 18:36:11.795 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:36:11.795 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:36:11.836 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:36:11.838 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:36:11.848 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:36:11.850 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:36:11.850 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3274,9 +3274,9 @@ It is a non poisonous product
 18:36:41.294 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:36:41.294 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:36:41.321 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:36:41.323 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:36:41.329 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:36:41.330 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:36:41.330 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3355,9 +3355,9 @@ It is a non poisonous product
 18:36:45.100 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 18:36:45.100 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 18:36:45.131 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+18:36:45.134 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 18:36:45.141 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 18:36:45.141 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 18:36:45.142 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3436,9 +3436,9 @@ It is a non poisonous product
 19:21:19.980 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 19:21:19.980 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 19:21:20.006 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+19:21:20.008 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 19:21:20.012 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 19:21:20.013 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 19:21:20.014 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3520,9 +3520,9 @@ It is a non poisonous product
 19:25:56.877 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 19:25:56.877 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 19:25:56.903 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-19:25:56.905 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-19:25:56.905 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-19:25:56.906 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+19:25:56.905 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+19:25:56.905 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+19:25:56.906 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 19:25:56.910 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 19:25:56.910 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 19:25:56.911 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3605,9 +3605,9 @@ It is a non poisonous product
 15:27:26.720 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:27:26.720 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:27:26.750 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:27:26.753 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:27:26.759 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:27:26.760 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:27:26.761 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3690,9 +3690,9 @@ It is a non poisonous product
 15:27:55.195 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:27:55.195 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:27:55.226 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:27:55.230 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:27:55.236 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:27:55.237 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:27:55.240 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3775,9 +3775,9 @@ It is a non poisonous product
 15:28:33.527 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:28:33.527 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:28:33.606 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:28:33.611 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:28:33.617 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:28:33.618 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:28:33.620 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3860,9 +3860,9 @@ It is a non poisonous product
 15:30:34.874 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:30:34.874 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:30:34.910 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:30:34.912 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:30:34.913 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:30:34.913 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:30:34.912 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:30:34.913 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:30:34.913 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:30:34.920 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:30:34.922 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:30:34.923 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -3945,9 +3945,9 @@ It is a non poisonous product
 15:43:39.645 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:43:39.645 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:43:39.673 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:43:39.675 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:43:39.675 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:43:39.676 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:43:39.675 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:43:39.675 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:43:39.676 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:43:39.680 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:43:39.680 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:43:39.681 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4030,9 +4030,9 @@ It is a non poisonous product
 15:43:57.339 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:43:57.339 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:43:57.372 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:43:57.375 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:43:57.385 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:43:57.386 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:43:57.389 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4115,9 +4115,9 @@ It is a non poisonous product
 15:45:00.226 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:45:00.227 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:45:00.266 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:45:00.268 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:45:00.269 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:45:00.269 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:45:00.268 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:45:00.269 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:45:00.269 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:45:00.274 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:45:00.275 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:45:00.277 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4200,9 +4200,9 @@ It is a non poisonous product
 15:47:01.821 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:47:01.821 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:47:01.850 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:47:01.852 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:47:01.858 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:47:01.859 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:47:01.860 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4285,9 +4285,9 @@ It is a non poisonous product
 15:51:25.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:51:25.331 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:51:25.364 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:51:25.367 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:51:25.374 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:51:25.375 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:51:25.379 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4370,9 +4370,9 @@ It is a non poisonous product
 16:10:09.106 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:10:09.106 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:10:09.141 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:10:09.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:10:09.150 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:10:09.150 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:10:09.154 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4455,9 +4455,9 @@ It is a non poisonous product
 16:11:07.871 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:11:07.871 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:11:07.908 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:11:07.910 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:11:07.911 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:11:07.911 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:11:07.910 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:11:07.911 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:11:07.911 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:11:07.919 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:11:07.920 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:11:07.926 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4540,9 +4540,9 @@ It is a non poisonous product
 16:11:29.021 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:11:29.021 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:11:29.053 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:11:29.055 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:11:29.061 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:11:29.062 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:11:29.064 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4625,9 +4625,9 @@ It is a non poisonous product
 16:25:28.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:25:28.624 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:25:28.661 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:25:28.663 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:25:28.664 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:25:28.664 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:25:28.663 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:25:28.664 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:25:28.664 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:25:28.671 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:25:28.671 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:25:28.672 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4710,9 +4710,9 @@ It is a non poisonous product
 16:26:07.366 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:26:07.367 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:26:07.398 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:26:07.400 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:26:07.401 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:26:07.401 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:26:07.400 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:26:07.401 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:26:07.401 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:26:07.407 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:26:07.408 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:26:07.409 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4795,9 +4795,9 @@ It is a non poisonous product
 16:27:43.727 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:27:43.728 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:27:43.769 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:27:43.772 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:27:43.773 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:27:43.773 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:27:43.772 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:27:43.773 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:27:43.773 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:27:43.780 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:27:43.781 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:27:43.782 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4880,9 +4880,9 @@ It is a non poisonous product
 16:28:01.165 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:28:01.165 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:28:01.199 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:28:01.201 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:28:01.201 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:28:01.202 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:28:01.201 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:28:01.201 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:28:01.202 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:28:01.209 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:28:01.210 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:28:01.211 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -4965,9 +4965,9 @@ It is a non poisonous product
 16:29:52.860 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:29:52.860 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:29:52.890 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:29:52.892 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:29:52.897 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:29:52.898 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:29:52.900 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5050,9 +5050,9 @@ It is a non poisonous product
 16:30:22.758 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:30:22.758 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:30:22.795 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:30:22.798 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:30:22.806 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:30:22.807 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:30:22.809 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5135,9 +5135,9 @@ It is a non poisonous product
 16:36:08.257 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:36:08.257 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:36:08.287 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:36:08.290 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:36:08.291 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:36:08.291 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:36:08.290 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:36:08.291 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:36:08.291 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:36:08.304 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:36:08.305 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:36:08.306 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5220,9 +5220,9 @@ It is a non poisonous product
 17:17:26.768 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:17:26.768 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:17:26.797 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:17:26.799 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:17:26.799 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:17:26.800 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:17:26.799 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:17:26.799 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:17:26.800 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:17:26.807 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:17:26.808 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:17:26.810 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5305,9 +5305,9 @@ It is a non poisonous product
 17:17:46.105 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 17:17:46.105 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 17:17:46.141 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+17:17:46.144 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 17:17:46.152 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 17:17:46.153 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 17:17:46.155 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5389,9 +5389,9 @@ It is a non poisonous product
 14:17:03.532 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
 14:17:03.532 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:17:03.532 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
-14:17:03.537 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:17:03.544 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:17:03.544 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:17:03.537 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:17:03.544 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:17:03.544 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:17:03.554 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:17:03.561 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:17:03.562 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5473,9 +5473,9 @@ It is a non poisonous product
 14:18:51.432 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
 14:18:51.432 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:18:51.432 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
-14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:18:51.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:18:51.441 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:18:51.442 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:18:51.442 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5558,9 +5558,9 @@ It is a non poisonous product
 14:29:10.716 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:29:10.717 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:29:10.749 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:29:10.751 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:29:10.756 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:29:10.756 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:29:10.757 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5643,9 +5643,9 @@ It is a non poisonous product
 14:38:21.050 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:38:21.050 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:38:21.084 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:38:21.086 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:38:21.086 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:38:21.088 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:38:21.086 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:38:21.086 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:38:21.088 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:38:21.093 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:38:21.094 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:38:21.095 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5729,9 +5729,9 @@ It is a non poisonous product
 14:39:05.178 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:39:05.178 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:39:05.213 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:39:05.215 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:39:05.216 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:39:05.216 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:39:05.215 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:39:05.216 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:39:05.216 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:39:05.220 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:39:05.221 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:39:05.221 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5815,9 +5815,9 @@ It is a non poisonous product
 14:40:34.304 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:40:34.304 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:40:34.336 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:40:34.339 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:40:34.339 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:40:34.340 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:40:34.339 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:40:34.339 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:40:34.340 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:40:34.347 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:40:34.348 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:40:34.349 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5901,9 +5901,9 @@ It is a non poisonous product
 14:40:46.537 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 14:40:46.538 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 14:40:46.565 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-14:40:46.566 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-14:40:46.567 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-14:40:46.567 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+14:40:46.566 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+14:40:46.567 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+14:40:46.567 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 14:40:46.572 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 14:40:46.573 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 14:40:46.574 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -5987,9 +5987,9 @@ It is a non poisonous product
 15:09:37.545 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:09:37.545 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:09:37.577 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:09:37.580 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:09:37.585 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:09:37.585 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:09:37.586 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6074,9 +6074,9 @@ It is a non poisonous product
 15:10:06.123 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:10:06.123 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:10:06.155 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:10:06.157 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:10:06.167 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:10:06.168 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:10:06.173 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6161,9 +6161,9 @@ It is a non poisonous product
 15:12:16.305 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:12:16.305 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:12:16.339 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:12:16.341 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:12:16.346 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:12:16.346 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:12:16.347 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6247,9 +6247,9 @@ It is a non poisonous product
 15:13:32.551 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:13:32.551 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:13:32.589 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:13:32.591 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:13:32.598 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:13:32.598 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:13:32.598 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6333,9 +6333,9 @@ It is a non poisonous product
 15:14:35.961 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:14:35.961 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:14:35.996 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:14:35.998 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:14:36.004 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:14:36.005 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:14:36.005 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6419,9 +6419,9 @@ It is a non poisonous product
 15:29:24.671 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:29:24.672 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:29:24.707 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:29:24.709 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:29:24.719 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:29:24.720 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:29:24.721 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6505,9 +6505,9 @@ It is a non poisonous product
 15:47:35.996 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:47:35.996 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:47:36.027 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:47:36.028 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:47:36.029 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:47:36.029 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:47:36.028 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:47:36.029 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:47:36.029 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:47:36.033 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:47:36.034 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:47:36.035 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6591,9 +6591,9 @@ It is a non poisonous product
 15:50:29.668 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:50:29.669 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:50:29.700 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:50:29.702 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:50:29.708 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:50:29.709 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:50:29.711 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6677,9 +6677,9 @@ It is a non poisonous product
 15:51:20.322 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:51:20.322 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:51:20.361 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:51:20.365 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:51:20.366 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:51:20.366 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:51:20.365 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:51:20.366 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:51:20.366 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:51:20.373 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:51:20.374 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:51:20.374 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6763,9 +6763,9 @@ It is a non poisonous product
 15:51:47.839 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:51:47.839 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:51:47.882 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:51:47.887 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:51:47.898 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:51:47.898 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:51:47.899 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6849,9 +6849,9 @@ It is a non poisonous product
 15:52:56.042 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:52:56.043 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:52:56.086 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:52:56.088 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:52:56.088 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:52:56.089 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:52:56.088 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:52:56.088 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:52:56.089 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:52:56.098 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:52:56.099 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:52:56.101 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -6935,9 +6935,9 @@ It is a non poisonous product
 15:54:15.168 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:54:15.168 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:54:15.206 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:54:15.208 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:54:15.216 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:54:15.216 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:54:15.217 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7021,9 +7021,9 @@ It is a non poisonous product
 15:54:37.009 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 15:54:37.009 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 15:54:37.048 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+15:54:37.051 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 15:54:37.058 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 15:54:37.059 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 15:54:37.059 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7107,9 +7107,9 @@ It is a non poisonous product
 16:13:40.245 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:13:40.245 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:13:40.281 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:13:40.283 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:13:40.284 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:13:40.284 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:13:40.283 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:13:40.284 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:13:40.284 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:13:40.291 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:13:40.292 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:13:40.296 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7193,9 +7193,9 @@ It is a non poisonous product
 16:14:02.270 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:14:02.270 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:14:02.302 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:14:02.304 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:14:02.304 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:14:02.305 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:14:02.304 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:14:02.304 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:14:02.305 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:14:02.311 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:14:02.312 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:14:02.315 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7279,9 +7279,9 @@ It is a non poisonous product
 16:17:48.949 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:17:48.949 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:17:48.982 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:17:48.985 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:17:48.993 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:17:48.994 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:17:48.996 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7365,9 +7365,9 @@ It is a non poisonous product
 16:19:33.967 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:19:33.967 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:19:34.000 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:19:34.002 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:19:34.002 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:19:34.003 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:19:34.002 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:19:34.002 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:19:34.003 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:19:34.010 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:19:34.011 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:19:34.014 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7451,9 +7451,9 @@ It is a non poisonous product
 16:19:39.322 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:19:39.322 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:19:39.359 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:19:39.361 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:19:39.362 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:19:39.362 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:19:39.361 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:19:39.362 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:19:39.362 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:19:39.369 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:19:39.370 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:19:39.373 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7537,9 +7537,9 @@ It is a non poisonous product
 16:20:02.398 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:20:02.398 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:20:02.431 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:20:02.434 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:20:02.439 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:20:02.440 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:20:02.445 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7623,9 +7623,9 @@ It is a non poisonous product
 16:20:36.409 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:20:36.410 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:20:36.443 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:20:36.447 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:20:36.453 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:20:36.454 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:20:36.458 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7709,9 +7709,9 @@ It is a non poisonous product
 16:21:44.104 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:21:44.104 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:21:44.144 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:21:44.146 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:21:44.153 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:21:44.154 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:21:44.156 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7795,9 +7795,9 @@ It is a non poisonous product
 16:21:48.791 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:21:48.791 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:21:48.836 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:21:48.843 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:21:48.853 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:21:48.854 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:21:48.855 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7881,9 +7881,9 @@ It is a non poisonous product
 16:22:55.709 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:22:55.709 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:22:55.739 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:22:55.741 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:22:55.742 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:22:55.742 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:22:55.741 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:22:55.742 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:22:55.742 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:22:55.746 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:22:55.747 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:22:55.747 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -7967,9 +7967,9 @@ It is a non poisonous product
 16:23:32.589 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:23:32.589 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:23:32.632 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:23:32.634 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:23:32.642 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:23:32.643 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:23:32.644 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
@@ -8053,9 +8053,9 @@ It is a non poisonous product
 16:24:18.366 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
 16:24:18.366 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
 16:24:18.402 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
-16:24:18.404 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The EMERGENCY phone number is: +5422992499
-16:24:18.404 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The POLICE phone number is: +45842358665
-16:24:18.405 [main] INFO  com.solvd.hardwarestore1.EmergencyPhoneNumbers - The FIREFIGHTER phone number is: +21912384
+16:24:18.404 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EMERGENCY phone number is: +5422992499
+16:24:18.404 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The POLICE phone number is: +45842358665
+16:24:18.405 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The FIREFIGHTER phone number is: +21912384
 16:24:18.411 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
 16:24:18.411 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
 16:24:18.412 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
