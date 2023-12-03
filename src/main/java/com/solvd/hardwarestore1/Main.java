@@ -7,8 +7,9 @@ import com.solvd.hardwarestore1.func_interfaces.ResultAsInteger;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.ArrayList;
-import java.util.Random;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 
 /*Hardware store
@@ -50,7 +51,7 @@ public class Main {
         LOGGER.info("Hello and welcome to hardware store!!");
         System.out.println();
         //Creating the first Electric product
-        ElectricProduct lightBulb = new ElectricProduct("Light bulb", "led light bulb");
+        ElectricProduct lightBulb = new ElectricProduct("Light bulb 2", "led light bulb");
         //Getting the product name
         LOGGER.info(lightBulb.toString());
         //setting the power field
@@ -63,7 +64,7 @@ public class Main {
         System.out.println();
         System.out.println();
         //Creating the second Electric product
-        ElectricProduct lightBulb2 = new ElectricProduct("Light bulb", "led light bulb");
+        ElectricProduct lightBulb2 = new ElectricProduct("Light bulb 1", "led light bulb");
 
         //getting the lightBulb2 id that used hashCode override to create a unique id
         LOGGER.info(lightBulb2.getElectricId());
@@ -249,6 +250,83 @@ public class Main {
                 employee.getVacation()+employee1.getVacation();
 
         LOGGER.info("both employees have: "+howManyVacationDays.resultIsInteger(joseAntonio,carlosRusso)+" days of vacation");
+
+
+        //Adding the new products to a product list
+        ArrayList<Product> productList=new ArrayList<>();
+
+        productList.add(gardenScissors);
+        productList.add(gardenScissors1);
+        productList.add(gasBurner);
+        productList.add(gasBurner2);
+        productList.add(lightBulb);
+
+        //Getting an array of only electricProducts
+        Stream<Product> streamElectricProducts= productList.stream();
+
+        //1-This stream return a list of only electrical products. The list is Optional in case that there are nulls
+       List<Optional<Product>> optionalProducts =  streamElectricProducts
+                .filter(product->product instanceof ElectricProduct)
+                .peek((product)-> System.out.println(product.getProductName()))
+                .map(product -> {((ElectricProduct) product).setVoltageRate(230);
+                    return Optional.of(product);})
+                .collect(Collectors.toList());
+        System.out.println();
+        System.out.println();
+
+        optionalProducts.forEach(product -> System.out.println(product.get().getProductName()) );
+        System.out.println();
+
+        //2- This stream use return only the product that doesnt have it voltage set and set it in 230V
+        List<ElectricProduct> electricProductList=new ArrayList<>();
+        electricProductList.add(lightBulb);
+        electricProductList.add(lightBulb2);
+        ElectricProduct lightBulb3 = new ElectricProduct("Light bulb 4", "led light bulb");
+
+
+        List<ElectricProduct> electricProductList1= electricProductList.stream()
+                .filter(electricProduct -> electricProduct.getVoltageRate()==0)
+                .map(electricProduct -> {electricProduct.setVoltageRate(230);
+                return electricProduct;})
+                .collect(Collectors.toList());
+
+        System.out.println();
+        System.out.println();
+        electricProductList1.
+                forEach(electricProduct -> System.out.println("The product is: "+electricProduct.getProductName()+
+                        " and it voltage is: "+electricProduct.getVoltageRate()));
+
+
+        //
+
+        //3-In this application of stream if we find any Electric product that doesnt has the voltage set
+        //You must correct it from the beginning
+
+        Optional<ElectricProduct> OptionalElectricProduct= electricProductList.stream()
+                .filter(product->product.getVoltageRate()==0)
+                .findAny();
+
+
+        System.out.println(OptionalElectricProduct.orElseGet(()->{ElectricProduct defaultProduct=new ElectricProduct("Default product","There was not any product");
+        return defaultProduct;}).getProductDescription());
+
+
+        //4- Find unique word in text
+        ReadFile.findUniqueWord("",inputFilePath);
+
+        //5-sort words in a file by their length
+        ReadFile.orderWordsbyLenght(inputFilePath,outputFilePath);
+
+        //6 counts all the characters in a file spaces and punctuation are not counted
+        ReadFile.countCharacters(inputFilePath,outputFilePath);
+
+        //7 Find a number in a file and
+        ReadFile.findAnyNumber(inputFilePath,outputFilePath);
+
+
+
+
+
 
     }
 }

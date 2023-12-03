@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40ec690d-b1e8-4348-af34-175da2566f18" name="Changes" comment="" />
+    <list default="true" id="40ec690d-b1e8-4348-af34-175da2566f18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HardwareStore.log" beforeDir="false" afterPath="$PROJECT_DIR$/HardwareStore.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/output.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +94,15 @@
     <servers />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/ReadFile.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="wordCount" />

@@ -7,15 +7,12 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class ReadFile {
     private static final Logger LOGGER= LogManager.getLogger(ReadFile.class);
     // Input and output file paths
-    String inputFilePath = "src/main/resources/input.txt";
-    String outputFilePath = "src/main/resources/output.txt";
 
     public static void readWriteFile(String inputFilePath, String outputFilePath){
         try {
@@ -65,7 +62,116 @@ public class ReadFile {
         LOGGER.info("Saved into: " + outputFilePath);
     } catch (
     IOException e) {
-        e.printStackTrace();
+            LOGGER.error(e.getMessage());
+        }
     }
+
+    public static void findUniqueWord(String wordToFind,String inputFilePath) {
+        try {
+            // Read text from the input file
+            String content = FileUtils.readFileToString(new File(inputFilePath), "UTF-8");
+
+            //System.out.println(content);
+
+            // Split the content into words
+            String[] words = StringUtils.split(content);
+
+
+           Optional<String> result= Arrays.stream(words)
+                    .filter(word->word.equals(wordToFind))
+                    .findAny();
+
+           LOGGER.info(result.orElseGet(()->"No word found"));
+
+        }catch (IOException e) {
+            LOGGER.error(e.getMessage());
+        }
     }
+
+
+    public static void orderWordsbyLenght(String inputFilePath,String outputFilePath) {
+        try {
+            // Read text from the input file
+            String content = FileUtils.readFileToString(new File(inputFilePath), "UTF-8");
+
+            //System.out.println(content);
+
+            // Split the content into words
+            String[] words = StringUtils.split(content);
+            List<String> listOfWords =new ArrayList<>();
+            listOfWords=Arrays.asList(words);
+
+            String result =  listOfWords.stream()
+                    .sorted((word1,word2)->Integer.compare(word1.length(),word2.length()))
+                    .collect(Collectors.joining("\n"));
+
+            FileUtils.writeStringToFile(new File(outputFilePath),result , "UTF-8");
+
+        }catch (IOException e) {
+            LOGGER.error(e.getMessage());
+        }
+    }
+
+
+    public static void countCharacters(String inputFilePath,String outputFilePath) {
+        try {
+            // Read text from the input file
+            String content = FileUtils.readFileToString(new File(inputFilePath), "UTF-8");
+
+            //System.out.println(content);
+
+            // Split the content into words
+            String[] words = StringUtils.split(content);
+            List<String> listOfWords =new ArrayList<>();
+            listOfWords=Arrays.asList(words);
+
+            Integer result =  listOfWords.stream()
+                    .map(word->word.toLowerCase())
+                    .map(word->word.replaceAll("\\p{Punct}", ""))
+                    .mapToInt(word->word.length())
+                    .sum();
+
+            FileUtils.writeStringToFile(new File(outputFilePath),result.toString() , "UTF-8");
+
+        }catch (IOException e) {
+            LOGGER.error(e.getMessage());
+        }
+    }
+
+
+
+    public static void findAnyNumber(String inputFilePath,String outputFilePath) {
+        try {
+            // Read text from the input file
+            String content = FileUtils.readFileToString(new File(inputFilePath), "UTF-8");
+
+            String[] list = StringUtils.split(content);
+
+            List<String> list2 = Arrays.asList(list);
+
+            Optional<String> wordWithNumber = Arrays.stream(list)
+                    .filter(word -> word.matches(".*\\d.*"))
+                    .findAny();
+
+            String finalMessage = wordWithNumber.orElse("No number found, well done.");
+
+            String finalMessage2=null;
+
+            if (finalMessage.equals("No number found, well done.")) {
+                 finalMessage2= finalMessage;
+            }else {
+                 finalMessage2 ="A number was found in the text, the first one is: "+wordWithNumber.get();
+            }
+
+
+
+            FileUtils.writeStringToFile(new File(outputFilePath),finalMessage2 , "UTF-8");
+
+        }catch (IOException e) {
+           LOGGER.error(e.getMessage());
+        }
+    }
+
+
 }
+

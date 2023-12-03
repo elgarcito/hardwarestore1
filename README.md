@@ -26,6 +26,15 @@ Besides that, we have the persons that interact with the store these are:
 
 ## Exercises and references:
 
+### 30/11/2023
+Add 7 collection streaming in the hierarchy with terminal and non-terminal operations.
+Using reflection extract information(modifiers, return types, parameters, etc) 
+about fields, constructors, methods. Create object and call method using the 
+only reflection.
+
+* The seven Collection streaming were added in the Main method from line 267 to line 325. 
+Some of this implementation were also in the class ReadFile from line 71 to line 180.
+
 ### 28/11/2023
 Use at least 5 lambda functions from the java.util.function package.
 Create 3 custom Lambda functions with generics.
