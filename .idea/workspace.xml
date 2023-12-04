@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="40ec690d-b1e8-4348-af34-175da2566f18" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HardwareStore.log" beforeDir="false" afterPath="$PROJECT_DIR$/HardwareStore.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/WaterProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solvd/hardwarestore1/WaterProduct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

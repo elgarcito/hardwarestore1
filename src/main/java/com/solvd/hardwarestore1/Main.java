@@ -1,5 +1,6 @@
 package com.solvd.hardwarestore1;
 
+import com.solvd.hardwarestore1.annotations.MyAnnotation;
 import com.solvd.hardwarestore1.func_interfaces.ModifyAnyString;
 import com.solvd.hardwarestore1.func_interfaces.OperateInEmployeeList;
 import com.solvd.hardwarestore1.func_interfaces.ResultAsInteger;
@@ -393,13 +394,15 @@ public class Main {
             enumField.setAccessible(true);
             LOGGER.info(enumField.isEnumConstant());
 
+            //Class<WaterProduct> waterProductClassReflection= (Class<WaterProduct>) Class.forName("com.solvd.hardwarestore1.WaterProduct");
+            //MyAnnotation myAnnotation= waterProductClassReflection.getDeclaredAnnotations(MyAnnotation.class);
+
 
         }catch (NoClassDefFoundError|NoSuchMethodException|InvocationTargetException
                 |InstantiationException|IllegalAccessException|NoSuchFieldException e){
             LOGGER.error(e.getMessage());
             throw new RuntimeException(e);
         }
-
 
     }
 }
