@@ -6,6 +6,7 @@ import com.solvd.hardwarestore1.func_interfaces.ResultAsInteger;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.lang.reflect.*;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -38,7 +39,7 @@ public class Main {
     }
     private static final Logger LOGGER= LogManager.getLogger(Main.class);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
 
         try (AutoCloseable ac = new AutoClosableNoResource()) {
             LOGGER.info("Inside try block to test Try catch with exception");
@@ -321,6 +322,84 @@ public class Main {
 
         //7 Find a number in a file and
         ReadFile.findAnyNumber(inputFilePath,outputFilePath);
+
+
+        //Reflection exercises
+
+        String innerClass="com.solvd.hardwarestore1.Employee";
+
+        try {
+            //Created a new instance of an employee using reflection
+            Class<Employee> empClass= (Class<Employee>) Class.forName(innerClass);
+            Constructor<Employee> constEmployee= empClass.getDeclaredConstructor(String.class,String.class,String.class,String.class);
+            Employee javierGomez=constEmployee.newInstance("Javier Gomez","javo@gmail.com","+5412842","seller");
+            LOGGER.info(javierGomez.getPersonName());
+            //Accesing a field of an electric product created using relection
+            Class<ElectricProduct> electricProductClass =(Class<ElectricProduct>) Class.forName("com.solvd.hardwarestore1.ElectricProduct");
+            //Accesing it SuperClass via reflection
+            Class<Product> productClass =(Class<Product>) Class.forName("com.solvd.hardwarestore1.Product");
+            Field voltageRateReflection= electricProductClass.getDeclaredField("voltageRate");
+            Field productDescriptionReflection= productClass.getDeclaredField("productDescription");
+            productDescriptionReflection.setAccessible(true);
+            voltageRateReflection.setAccessible(true);
+            LOGGER.info("The description of Light bulb3 is: "+ productDescriptionReflection.get(lightBulb3));
+            LOGGER.info("The voltage rate of Light bulb3 is: "+ voltageRateReflection.get(lightBulb3)+" V");
+            //Changing a field of an electric product created using relection
+            Field powerField =electricProductClass.getDeclaredField("power");
+            powerField.setAccessible(true);
+            powerField.set(lightBulb3,1000000);
+            LOGGER.info(lightBulb3.getPower());
+            //Getting the modifier of a field
+            String modifierTypeOfFieldWithReflexion = Modifier.toString(powerField.getModifiers());
+            LOGGER.info(modifierTypeOfFieldWithReflexion);
+
+            //Using a method inside electric product using reflection
+            Method checkAvailabilityReflection= electricProductClass.getMethod("checkAvailability", int.class);
+            checkAvailabilityReflection.setAccessible(true);
+            LOGGER.info(checkAvailabilityReflection.invoke(lightBulb3,23));
+            //Getting the parameters of this method
+            Parameter[] parametersUsed=checkAvailabilityReflection.getParameters();
+            Arrays.stream(parametersUsed)
+                    .forEach(param -> {LOGGER.info("The parameter name for this method is: "+param.getName()
+                    +", the parameter type is: "+param.getType());});
+
+            //Another method using a getter
+            Method getElectricIdReflection=electricProductClass.getMethod("getElectricId");
+            getElectricIdReflection.setAccessible(true);
+            LOGGER.info(getElectricIdReflection.invoke(lightBulb3));
+            //Getting the modifier of this method
+            String modifierTypeOfFieldWithReflexion1 = Modifier.toString(getElectricIdReflection.getModifiers());
+            LOGGER.info("The modifier of this method is: "+modifierTypeOfFieldWithReflexion1);
+            //Getting the return type
+            LOGGER.info("The return Type of this method is: "+getElectricIdReflection.getReturnType());
+
+
+
+            //Using reflexion to acces into an enum
+            Class<BankAccounts> bankAccountWithReflexion= (Class<BankAccounts>) Class.forName("com.solvd.hardwarestore1.BankAccounts");
+            //Check if it is an enum
+            LOGGER.info(bankAccountWithReflexion.isEnum());
+            //Accesing the enum types with reflexion and put them into an array
+            BankAccounts[] insideEnum = bankAccountWithReflexion.getEnumConstants();
+
+            for (BankAccounts value: insideEnum){
+                Field enumField2= bankAccountWithReflexion.getDeclaredField("ALIAS");
+                enumField2.setAccessible(true);
+                System.out.println(enumField2.get(value));
+            }
+
+            //Check if the field is a constant or not
+            Field enumField= bankAccountWithReflexion.getDeclaredField("ACCOUNTANT_ACCOUNT");
+            enumField.setAccessible(true);
+            System.out.println(enumField.isEnumConstant());
+
+
+        }catch (NoClassDefFoundError|NoSuchMethodException|InvocationTargetException
+                |InstantiationException|IllegalAccessException|NoSuchFieldException e){
+            LOGGER.error(e.getMessage());
+            throw new RuntimeException(e);
+        }
+
 
     }
 }
