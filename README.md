@@ -28,12 +28,16 @@ Besides that, we have the persons that interact with the store these are:
 
 ### 30/11/2023
 Add 7 collection streaming in the hierarchy with terminal and non-terminal operations.
-Using reflection extract information(modifiers, return types, parameters, etc) 
+Using reflection extract information (modifiers, return types, parameters, etc) 
 about fields, constructors, methods. Create object and call method using the 
 only reflection.
 
 * The seven Collection streaming were added in the Main method from line 267 to line 325. 
 Some of this implementation were also in the class ReadFile from line 71 to line 180.
+
+* From line 327 to line 401 in the main method, it is possible to see the implementation of reflexion in
+different cases. It is used to create a class, access methods, and fields. Also, it was 
+obtained the parameters, return types y modifiers in methods.
 
 ### 28/11/2023
 Use at least 5 lambda functions from the java.util.function package.

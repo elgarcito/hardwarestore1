@@ -385,13 +385,13 @@ public class Main {
             for (BankAccounts value: insideEnum){
                 Field enumField2= bankAccountWithReflexion.getDeclaredField("ALIAS");
                 enumField2.setAccessible(true);
-                System.out.println(enumField2.get(value));
+                LOGGER.info(enumField2.get(value));
             }
 
             //Check if the field is a constant or not
             Field enumField= bankAccountWithReflexion.getDeclaredField("ACCOUNTANT_ACCOUNT");
             enumField.setAccessible(true);
-            System.out.println(enumField.isEnumConstant());
+            LOGGER.info(enumField.isEnumConstant());
 
 
         }catch (NoClassDefFoundError|NoSuchMethodException|InvocationTargetException
