@@ -12206,3 +12206,5 @@ with an estimated time of: 100 min.
 11:03:17.039 [main] INFO  com.solvd.hardwarestore1.Main - RU.SU.MU
 11:03:17.039 [main] INFO  com.solvd.hardwarestore1.Main - true
 11:03:17.039 [main] INFO  com.solvd.hardwarestore1.Main - new Branch created
+11:29:18.138 [main] INFO  com.solvd.hardwarestore1.Main - Hello from main
+11:29:18.144 [main] INFO  com.solvd.hardwarestore1.Main - Bye from main

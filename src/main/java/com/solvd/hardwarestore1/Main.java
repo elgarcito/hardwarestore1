@@ -38,5 +38,15 @@ public class Main {
 
     public static void main(String[] args) throws ClassNotFoundException {
 
+        //Two threads
+
+        System.out.println("Hello from main");
+        //Thread with runnable
+        ThreadWithRunnable threadWithRunnable= new ThreadWithRunnable();
+        (new Thread(threadWithRunnable)).start();
+        //Thread with extends of Thread
+        (new ThreadWithThread()).start();
+        System.out.println("Bye from main");
+
     }
 }
