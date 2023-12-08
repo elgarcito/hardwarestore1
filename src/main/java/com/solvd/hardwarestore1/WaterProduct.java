@@ -1,13 +1,13 @@
 package com.solvd.hardwarestore1;
 
-import com.solvd.hardwarestore1.annotations.MyAnnotation;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class WaterProduct extends Product {
 
 
-    @MyAnnotation(value = "Super Water Product")
+
     public String anotherSpecifier;
 
     private static final Logger LOGGER= LogManager.getLogger(WaterProduct.class);
