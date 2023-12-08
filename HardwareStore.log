@@ -11997,3 +11997,107 @@ with an estimated time of: 100 min.
 16:38:21.195 [main] INFO  com.solvd.hardwarestore1.Main - The modifier of this method is: public
 16:38:21.196 [main] INFO  com.solvd.hardwarestore1.Main - The return Type of this method is: class java.lang.String
 16:38:21.196 [main] INFO  com.solvd.hardwarestore1.Main - true
+10:40:37.595 [main] INFO  com.solvd.hardwarestore1.Main - Inside try block to test Try catch with exception
+10:40:37.599 [main] INFO  com.solvd.hardwarestore1.Main - Hello and welcome to hardware store!!
+10:40:37.623 [main] INFO  com.solvd.hardwarestore1.Main - The resume name of the product is:
+Light bulb 2
+The full description is:
+led light bulb
+10:40:37.627 [main] INFO  com.solvd.hardwarestore1.Main - 10.0
+10:40:37.627 [main] INFO  com.solvd.hardwarestore1.Main - 1.01
+10:40:37.627 [main] INFO  com.solvd.hardwarestore1.Main - EL1190956549
+10:40:37.628 [main] INFO  com.solvd.hardwarestore1.Main - false
+10:40:37.632 [main] INFO  com.solvd.hardwarestore1.GasProduct - you can't sell that amount of this gas product, you need to have at least: 
+10 units in your stock.
+10:40:37.633 [main] INFO  com.solvd.hardwarestore1.Main - 8
+10:40:37.633 [main] INFO  com.solvd.hardwarestore1.GasProduct - the day of the transaction is
+10:40:37.650 [main] INFO  com.solvd.hardwarestore1.Main - 2023-12-08
+10:40:37.654 [main] INFO  com.solvd.hardwarestore1.ConstructionProduct - License is OK
+10:40:37.655 [main] INFO  com.solvd.hardwarestore1.Main - true
+10:40:37.662 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+10:40:37.662 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+10:40:37.662 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+10:40:37.663 [main] ERROR com.solvd.hardwarestore1.Employee - com.solvd.hardwarestore1.exceptions.EmployeeSpecialityException: The specialityDeposit doesn't exist, please enter a valid one: seller or deposit.
+10:40:37.663 [main] INFO  com.solvd.hardwarestore1.Employee - The employee carlos Russo has been added to the employee list.
+10:40:37.664 [main] INFO  com.solvd.hardwarestore1.Employee - The name length is ok and it has not any number inside
+10:40:37.664 [main] INFO  com.solvd.hardwarestore1.Employee - The gmail format is OK, only gmail mails.
+10:40:37.664 [main] INFO  com.solvd.hardwarestore1.Employee - The 8 digit phone number is Ok.
+10:40:37.664 [main] INFO  com.solvd.hardwarestore1.Employee - The specialty seller is Ok.
+10:40:37.665 [main] INFO  com.solvd.hardwarestore1.Employee - The employee Jose Antonio has been added to the employee list.
+10:40:37.678 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: carlos Russo
+Speciality: Deposit
+Phone number: 12345678
+10:40:37.678 [main] INFO  com.solvd.hardwarestore1.Employee - 
+Name: Jose Antonio
+Speciality: seller
+Phone number: 12345678
+10:40:37.694 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Small scissors
+The full description is:
+Small size scissors to cut grass
+It is a non poisonous product
+10:40:37.695 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Medium scissors
+The full description is:
+Medium size scissors to cut grass
+It is a non poisonous product
+10:40:37.695 [main] INFO  com.solvd.hardwarestore1.GardenProduct - The resume name of the product is:
+Big scissors
+The full description is:
+Big size scissors to cut grass
+It is a non poisonous product
+10:40:37.705 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+10:40:37.705 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+10:40:37.707 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+10:40:37.716 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+10:40:37.721 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+10:40:37.722 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+10:40:37.722 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+10:40:37.726 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 7
+10:40:37.727 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+10:40:37.728 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+10:40:37.729 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 1
+10:40:37.733 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 2
+10:40:37.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 5
+10:40:37.738 [main] INFO  com.solvd.hardwarestore1.CustomLinkedList - 6
+10:40:37.777 [main] INFO  com.solvd.hardwarestore1.ReadFile - Saved into: src/main/resources/output.txt
+10:40:37.782 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The YUAN_EXCHANGER phone number is: +254862 and asociated with the following bank account BUSINESS_ACCOUNT
+10:40:37.782 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The EURO_EXCHANGER phone number is: +684125 and asociated with the following bank account ACCOUNTANT_ACCOUNT
+10:40:37.783 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The COLOMBIAN_PESO_EXCHANGER phone number is: 14848151 and asociated with the following bank account OWNER_ACCOUNT
+10:40:37.783 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The BANK_ACCOUNT_OWNER_NUMBER phone number is: +32434354 and asociated with the following bank account OWNER_ACCOUNT
+10:40:37.784 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The BANK_ACCOUNT_BUSINESS_ACCOUNT_NUMBER phone number is: +35584926248 and asociated with the following bank account BUSINESS_ACCOUNT
+10:40:37.784 [main] INFO  com.solvd.hardwarestore1.EmergencyExchangePhonenNumber - The BANK_ACCOUNT_ACCOUNTANT_ACCOUNT_NUMBER phone number is: +3184148461 and asociated with the following bank account ACCOUNTANT_ACCOUNT
+10:40:37.792 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Euro: 91.455$
+10:40:37.794 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Colombian peso: 401306.55$
+10:40:37.796 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - 100.5$ USD = Chinese Yuan: 712.545$
+10:40:37.924 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of OWNER_ACCOUNT has for alias: VU.LU.SU and for CBU: 32434354 The emergency Phone number is: null
+10:40:37.931 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of BUSINESS_ACCOUNT has for alias: PU.CU.TU and for CBU: 384926248 The emergency Phone number is: null
+10:40:37.931 [main] INFO  com.solvd.hardwarestore1.BankAccounts - The bank account of ACCOUNTANT_ACCOUNT has for alias: RU.SU.MU and for CBU: 384148461 The emergency Phone number is: null
+10:40:37.940 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: YUAN_EXCHANGER_PLATFORM_EMAIL is: YUAN1234
+10:40:37.940 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: EURO_EXCHANGER_PLATFORM_EMAIL is: EURO1234
+10:40:37.940 [main] INFO  com.solvd.hardwarestore1.CurrencyExchange - The logger info and password for: COLOMBIAN_EXCHANGER_PLATFORM_EMAIL is: COL1234
+10:40:37.946 [main] INFO  com.solvd.hardwarestore1.Employee - The extra pay for: carlos Russo is 150 usd$
+10:40:37.969 [main] INFO  com.solvd.hardwarestore1.Main - The work was assigned to Jose Antonio.The date: 2023-12-08T10:40:37.953498800.
+She/He must do: 10 bags or recipents of sand.
+with an estimated time of: 100 min.
+10:40:37.971 [main] INFO  com.solvd.hardwarestore1.Main - carlos Russo
+10:40:37.971 [main] INFO  com.solvd.hardwarestore1.Main - Jose Antonio
+10:40:37.973 [main] INFO  com.solvd.hardwarestore1.Main - You own 22$ .Farewell! Until we meet again.
+10:40:37.977 [main] INFO  com.solvd.hardwarestore1.Main - both employees have: 40 days of vacation
+10:40:37.989 [main] INFO  com.solvd.hardwarestore1.ReadFile - No word found
+10:40:38.001 [main] INFO  com.solvd.hardwarestore1.Main - Javier Gomez
+10:40:38.002 [main] INFO  com.solvd.hardwarestore1.Main - The description of Light bulb3 is: led light bulb
+10:40:38.003 [main] INFO  com.solvd.hardwarestore1.Main - The voltage rate of Light bulb3 is: 0.0 V
+10:40:38.003 [main] INFO  com.solvd.hardwarestore1.Main - 1000000.0
+10:40:38.003 [main] INFO  com.solvd.hardwarestore1.Main - private
+10:40:38.003 [main] INFO  com.solvd.hardwarestore1.Main - false
+10:40:38.005 [main] INFO  com.solvd.hardwarestore1.Main - The parameter name for this method is: arg0, the parameter type is: int
+10:40:38.005 [main] INFO  com.solvd.hardwarestore1.Main - EL1190956642
+10:40:38.005 [main] INFO  com.solvd.hardwarestore1.Main - The modifier of this method is: public
+10:40:38.005 [main] INFO  com.solvd.hardwarestore1.Main - The return Type of this method is: class java.lang.String
+10:40:38.005 [main] INFO  com.solvd.hardwarestore1.Main - true
+10:40:38.006 [main] INFO  com.solvd.hardwarestore1.Main - VU.LU.SU
+10:40:38.006 [main] INFO  com.solvd.hardwarestore1.Main - PU.CU.TU
+10:40:38.006 [main] INFO  com.solvd.hardwarestore1.Main - RU.SU.MU
+10:40:38.006 [main] INFO  com.solvd.hardwarestore1.Main - true

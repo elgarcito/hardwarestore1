@@ -394,8 +394,6 @@ public class Main {
             enumField.setAccessible(true);
             LOGGER.info(enumField.isEnumConstant());
 
-            //Class<WaterProduct> waterProductClassReflection= (Class<WaterProduct>) Class.forName("com.solvd.hardwarestore1.WaterProduct");
-            //MyAnnotation myAnnotation= waterProductClassReflection.getDeclaredAnnotations(MyAnnotation.class);
 
 
         }catch (NoClassDefFoundError|NoSuchMethodException|InvocationTargetException
@@ -403,6 +401,7 @@ public class Main {
             LOGGER.error(e.getMessage());
             throw new RuntimeException(e);
         }
+
 
     }
 }
