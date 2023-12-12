@@ -12208,3 +12208,93 @@ with an estimated time of: 100 min.
 11:03:17.039 [main] INFO  com.solvd.hardwarestore1.Main - new Branch created
 11:29:18.138 [main] INFO  com.solvd.hardwarestore1.Main - Hello from main
 11:29:18.144 [main] INFO  com.solvd.hardwarestore1.Main - Bye from main
+19:03:46.495 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:03:46.498 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:03:46.499 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:03:46.499 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:03:46.499 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:03:46.500 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:03:46.501 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:04:12.460 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:04:12.464 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:04:12.465 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:04:12.465 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:04:12.466 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:04:12.466 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:04:12.466 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:04:16.028 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:04:16.033 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:04:16.034 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:04:16.035 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:04:16.035 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:04:16.036 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:04:16.036 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:06:18.322 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:07:29.399 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:07:32.283 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:07:32.284 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:07:37.341 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:07:40.318 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:07:40.322 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:09:48.346 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:09:48.350 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:09:48.351 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:09:48.352 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:09:48.353 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:09:48.354 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:09:48.354 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:12:41.206 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:12:41.210 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:12:41.211 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:12:41.211 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:12:41.212 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:12:41.212 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:12:41.212 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:14:10.281 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:14:10.284 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:14:10.285 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:14:10.286 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:14:10.286 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:14:10.287 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:14:10.287 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:15:37.895 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:15:41.758 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:15:43.686 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:15:43.688 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:15:44.593 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:15:44.596 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:15:44.602 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:19:09.032 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+19:19:09.036 [pool-2-thread-7] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-7 could connect
+19:19:09.036 [pool-2-thread-4] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-4 could connect
+19:19:09.037 [pool-2-thread-5] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-5 could connect
+19:19:09.037 [pool-2-thread-3] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-3 could connect
+19:19:09.039 [pool-2-thread-6] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-6 could connect
+19:19:09.040 [pool-2-thread-2] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-2 could connect
+19:21:33.724 [pool-2-thread-1] INFO  com.solvd.hardwarestore1.ConnectionPool - pool-2-thread-1 could connect
+16:24:55.480 [Thread-3] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-3 is connected: com.solvd.hardwarestore1.MockConnection@618e9b9
+16:24:55.480 [Thread-4] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-4 is connected: com.solvd.hardwarestore1.MockConnection@29f22a09
+16:24:55.480 [Thread-6] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-6 is connected: com.solvd.hardwarestore1.MockConnection@64bfd4a9
+16:24:55.480 [Thread-2] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-2 is connected: com.solvd.hardwarestore1.MockConnection@4e530604
+16:24:55.480 [Thread-5] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-5 is connected: com.solvd.hardwarestore1.MockConnection@95f0906
+16:25:00.490 [Thread-3] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-3 is released: com.solvd.hardwarestore1.MockConnection@618e9b9
+16:25:00.490 [Thread-5] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-5 is released: com.solvd.hardwarestore1.MockConnection@95f0906
+16:25:00.490 [Thread-6] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-6 is released: com.solvd.hardwarestore1.MockConnection@64bfd4a9
+16:25:00.490 [Thread-4] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-4 is released: com.solvd.hardwarestore1.MockConnection@29f22a09
+16:25:00.490 [Thread-2] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-2 is released: com.solvd.hardwarestore1.MockConnection@4e530604
+16:25:48.198 [Thread-2] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-2 is connected: com.solvd.hardwarestore1.MockConnection@60eb875c
+16:25:48.198 [Thread-5] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-5 is connected: com.solvd.hardwarestore1.MockConnection@4975691d
+16:25:48.198 [Thread-3] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-3 is connected: com.solvd.hardwarestore1.MockConnection@65d9880f
+16:25:48.198 [Thread-4] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-4 is connected: com.solvd.hardwarestore1.MockConnection@284b419a
+16:25:48.198 [Thread-6] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-6 is connected: com.solvd.hardwarestore1.MockConnection@529b0ca9
+16:25:53.210 [Thread-2] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-2 is released: com.solvd.hardwarestore1.MockConnection@60eb875c
+16:25:53.210 [Thread-4] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-4 is released: com.solvd.hardwarestore1.MockConnection@284b419a
+16:25:53.210 [Thread-6] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-6 is released: com.solvd.hardwarestore1.MockConnection@529b0ca9
+16:25:53.211 [Thread-7] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-7 is connected: com.solvd.hardwarestore1.MockConnection@284b419a
+16:25:53.210 [Thread-3] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-3 is released: com.solvd.hardwarestore1.MockConnection@65d9880f
+16:25:53.210 [Thread-8] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-8 is connected: com.solvd.hardwarestore1.MockConnection@4975691d
+16:25:53.210 [Thread-5] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-5 is released: com.solvd.hardwarestore1.MockConnection@4975691d
+16:25:53.210 [Thread-9] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-9 is connected: com.solvd.hardwarestore1.MockConnection@60eb875c
+16:25:58.219 [Thread-9] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-9 is released: com.solvd.hardwarestore1.MockConnection@60eb875c
+16:25:58.219 [Thread-8] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-8 is released: com.solvd.hardwarestore1.MockConnection@4975691d
+16:25:58.219 [Thread-7] INFO  com.solvd.hardwarestore1.ThreadWithRunnable1 - Thread-7 is released: com.solvd.hardwarestore1.MockConnection@284b419a

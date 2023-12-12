@@ -25,6 +25,23 @@ Besides that, we have the persons that interact with the store these are:
 3. BigCLient: at the moment, the store only works with big clients that are small and registered.
 
 ## Exercises and references:
+### 05/12/2023
+Create 2 Threads using Runnable and Thread.
+
+* In the threadBranch the classes ThreadWithThread an ThreadWithRunnable were created
+
+Initialize pool with 5 sizes. Load Connection Pool using threads and Thread 
+Pool(7 threads). 5 threads should be able to get the connection.
+2 Threads should wait for the next available connection. 
+The program should wait as well.
+
+*The connection PoolClass was created and added. The implementation was written in the main
+method
+
+Implement 4th part but with IFuture and CompletableStage.
+
+
+
 
 ### 30/11/2023
 Add 7 collection streaming in the hierarchy with terminal and non-terminal operations.

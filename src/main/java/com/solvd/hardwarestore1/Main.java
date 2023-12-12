@@ -1,10 +1,13 @@
 package com.solvd.hardwarestore1;
 
+import java.sql.Connection;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.lang.reflect.*;
 import java.util.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -34,19 +37,50 @@ public class Main {
     static {
         System.setProperty("log4j.configurationFile", "log4j2.xml");
     }
-    private static final Logger LOGGER= LogManager.getLogger(Main.class);
 
-    public static void main(String[] args) throws ClassNotFoundException {
+    private static final Logger LOGGER = LogManager.getLogger(Main.class);
+
+    public static void main(String[] args) throws ClassNotFoundException, InterruptedException {
 
         //Two threads
 
         System.out.println("Hello from main");
         //Thread with runnable
-        ThreadWithRunnable threadWithRunnable= new ThreadWithRunnable();
+        ThreadWithRunnable threadWithRunnable = new ThreadWithRunnable();
         (new Thread(threadWithRunnable)).start();
         //Thread with extends of Thread
         (new ThreadWithThread()).start();
         System.out.println("Bye from main");
 
+        //Connection pool with threads
+        List<Thread> listOfThreads= new ArrayList<>();
+        ConnectionPool connectionPool = ConnectionPool.getInstance();
+
+
+        for (int i = 0; i < 5; i++) {
+            Thread newTread=new Thread(new ThreadWithRunnable1(connectionPool));
+            newTread.start();
+            listOfThreads.add(newTread);
+        }
+
+
+        for (int i = 2; i < 5; i++) {
+            Thread newThread=new Thread(new ThreadWithRunnable1(connectionPool));
+            newThread.start();
+            listOfThreads.add(newThread);
+        }
+
+        for (Thread newThread: listOfThreads){
+            newThread.join();
+        }
+
+        //Connection pool with Ifuture interface
+
+
     }
 }
+
+
+
+
+
