@@ -1,15 +1,10 @@
 package com.solvd.hardwarestore1;
 
-import java.sql.Connection;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.lang.reflect.*;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 
 /*Hardware store
@@ -53,30 +48,49 @@ public class Main {
         System.out.println("Bye from main");
 
         //Connection pool with threads
-        List<Thread> listOfThreads= new ArrayList<>();
+        List<Thread> listOfThreads = new ArrayList<>();
         ConnectionPool connectionPool = ConnectionPool.getInstance();
 
 
         for (int i = 0; i < 5; i++) {
-            Thread newTread=new Thread(new ThreadWithRunnable1(connectionPool));
+            Thread newTread = new Thread(new ThreadWithRunnable1(connectionPool));
             newTread.start();
             listOfThreads.add(newTread);
         }
 
 
         for (int i = 2; i < 5; i++) {
-            Thread newThread=new Thread(new ThreadWithRunnable1(connectionPool));
+            Thread newThread = new Thread(new ThreadWithRunnable1(connectionPool));
             newThread.start();
             listOfThreads.add(newThread);
         }
 
-        for (Thread newThread: listOfThreads){
+        for (Thread newThread : listOfThreads) {
             newThread.join();
         }
 
+
+        ConnectionPoolWithInterfaces connectionPoolWithInterfaces = ConnectionPoolWithInterfaces.getInstance();
         //Connection pool with Ifuture interface
+        for (int i = 0; i < 7; i++) {
+            connectionPoolWithInterfaces.getConnectionCompletionStage()
+                    .thenAccept(connection -> {
+                        LOGGER.info(Thread.currentThread().getName() + " got connection with completable Stage: " + connection);
+                        try {
+                            Thread.sleep(4000);
+                        } catch (InterruptedException e) {
+                            LOGGER.error(e.getMessage());
+                        }
+                        connectionPoolWithInterfaces.releaseConnectionCompletionStage(connection);
+                        LOGGER.info(Thread.currentThread().getName() + " released connection with completable Stage: " + connection);
+                    })
+                    .exceptionally(throwable -> {
 
-
+                        throwable.printStackTrace();
+                        return null;
+                    });
+        }
+        connectionPoolWithInterfaces.shutDownExecutorService();
     }
 }
 
