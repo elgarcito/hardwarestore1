@@ -35,12 +35,13 @@ Pool(7 threads). 5 threads should be able to get the connection.
 2 Threads should wait for the next available connection. 
 The program should wait as well.
 
-*The connection PoolClass was created and added. The implementation was written in the main
-method
+*The ConnectionPool class was created and added. The implementation was written in 
+the main method
 
 Implement 4th part but with IFuture and CompletableStage.
 
-
+*The ConnectionPoolWithInterfaces class  was created and added. The implementation was written in
+the main method
 
 
 ### 30/11/2023
