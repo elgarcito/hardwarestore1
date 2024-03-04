@@ -51,7 +51,6 @@ public class Main {
         List<Thread> listOfThreads = new ArrayList<>();
         ConnectionPool connectionPool = ConnectionPool.getInstance();
 
-
         for (int i = 0; i < 5; i++) {
             Thread newTread = new Thread(new ThreadWithRunnable1(connectionPool));
             newTread.start();
